@@ -1,7 +1,7 @@
 ---
 title: "使用 Apple Watch 运动和自我量化"
 date: 2022-11-21T16:14:20+08:00
-draft:false
+draft: false
 categories:
   - "Blog"
 tags:
