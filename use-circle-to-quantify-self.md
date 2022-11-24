@@ -1,9 +1,9 @@
 ---
-title: "使用 Apple Watch 运动和量化自我"
+title: "集合：量化自我，看见成长"
 date: 2022-11-11T16:14:20+08:00
 draft: false
 categories:
-  - "Blog"
+  - "量化自我"
 tags:
   - "Sleep Analysis"
   - "Quantified Self"
