@@ -65,9 +65,7 @@ tags:
 
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1669279043004-94ac3879-0849-4e15-be92-4690c519afb4.png#averageHue=%2320353b&clientId=u4da5c6d7-c9b1-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=877&id=bg7YO&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1754&originWidth=1760&originalType=binary&ratio=1&rotation=0&showTitle=false&size=2222622&status=done&style=none&taskId=u4c7612a6-81b7-4ee4-9721-22ab4db147a&title=&width=880)
 
-随着时间的推移，训练安排也做了些调整，这是后来的训练安排。
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1669280453321-12ab13ec-0303-49df-9018-e305e8cffa23.png#averageHue=%23f0f0f0&clientId=u4da5c6d7-c9b1-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=278&id=ue2102788&margin=%5Bobject%20Object%5D&name=image.png&originHeight=556&originWidth=1244&originalType=binary&ratio=1&rotation=0&showTitle=false&size=240395&status=done&style=none&taskId=u6c2995e8-f6c8-442a-b5a8-2f4155aee69&title=&width=622)
 
 2022年5月底，在酒店游泳池游泳的时候，不记得是否是忘记了打开防水，我的 Apple Watch 转完菊花就再也无法开机了。去苹果店检查，也是过了保修期，维修的钱都可以买一台新的了。没有 Apple Watch，也就没法完成运动圆环，也就是前面图中 5.29 - 6.8 没有运动圆环的这段时间。
 
@@ -76,6 +74,12 @@ tags:
 不曾想，不知是心理的因素，还是设备的影响，没有 Apple Watch 的手表圆环，那几天的训练就乱了起来，6.2/6.3/6.4/6.6都没有跑步。想到 Apple Watch 的运动圆环既然能够帮助我坚持自律，那两三千的价格也很值啊。于是，不再犹豫直接在JD上买了一台，正好碰到减500的优惠，以2698的价格拿下，感觉更值了。也正是从收到 Apple Watch S7 的那一天，6月11日，熟悉的运动圆环又回来了。
 
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1669280729940-f7cee8fc-6139-480b-9279-6cfea97b19b5.png#averageHue=%23213c44&clientId=u4da5c6d7-c9b1-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=438&id=ud2df0174&margin=%5Bobject%20Object%5D&name=image.png&originHeight=876&originWidth=2084&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1430669&status=done&style=none&taskId=u5bbfb9a4-2248-4eab-926c-3eba6b2e6a8&title=&width=1042)
+
+
+
+随着时间的推移，训练安排也有了些调整，这是后来的训练安排。
+
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1669280453321-12ab13ec-0303-49df-9018-e305e8cffa23.png#averageHue=%23f0f0f0&clientId=u4da5c6d7-c9b1-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=278&id=ue2102788&margin=%5Bobject%20Object%5D&name=image.png&originHeight=556&originWidth=1244&originalType=binary&ratio=1&rotation=0&showTitle=false&size=240395&status=done&style=none&taskId=u6c2995e8-f6c8-442a-b5a8-2f4155aee69&title=&width=622)
 
 
 
