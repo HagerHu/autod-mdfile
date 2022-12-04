@@ -34,7 +34,7 @@ DigitalOcean 创建 Droplet，安装 influxdb + grafana，通过 caddy 配置反
 本周LP有事回老家，同时因为世界杯的缘故，睡眠时间偏晚，有两晚上更是到了凌晨一两点。
 周六晚上看完荷兰-美国的淘汰赛才睡觉，一觉睡到了早上10点；也是本周睡眠时间最长的一次，达到时长09:30。
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1670168843078-ef0c58d8-aa2e-4eef-8d2e-d37d347d3f95.png#averageHue=%237dbbd1&clientId=u56ab3deb-7bd0-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=304&id=u053ebf4d&margin=[object Object]&name=image.png&originHeight=608&originWidth=844&originalType=binary&ratio=1&rotation=0&showTitle=false&size=264478&status=done&style=none&taskId=uf90f2432-52de-432e-93ea-7189446533a&title=&width=422)
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1670168843078-ef0c58d8-aa2e-4eef-8d2e-d37d347d3f95.png?x-oss-process=image%2Fresize%2Cw_844%2Climit_0)
 
 ### 时间管理
 
@@ -48,7 +48,7 @@ DigitalOcean 创建 Droplet，安装 influxdb + grafana，通过 caddy 配置反
 
 《巴菲特致股东的信》这本书自从开始阅读，已经持续了几个月之久，可以调整时间安排尽早读完。
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1670169072027-89e32106-576c-4790-b42b-e2bcc42e0bcb.png#averageHue=%23322f2e&clientId=u56ab3deb-7bd0-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=568&id=u92736073&margin=[object Object]&name=image.png&originHeight=1136&originWidth=1418&originalType=binary&ratio=1&rotation=0&showTitle=false&size=433910&status=done&style=none&taskId=u8c85e50c-05ad-434d-b6c9-13d2ddd2b4f&title=&width=709)
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1670169072027-89e32106-576c-4790-b42b-e2bcc42e0bcb.png?x-oss-process=image%2Fresize%2Cw_1418%2Climit_0)
 
 ### 健康运动
 
@@ -58,7 +58,7 @@ DigitalOcean 创建 Droplet，安装 influxdb + grafana，通过 caddy 配置反
 
 本周报名宁波全程马拉松，路线在东钱湖，属于景区，体验的同时看看风景，计划配速500，完赛目标331。
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1670169004877-d8cb6acc-1f6d-4cc0-a969-801424ea106f.png#averageHue=%2375b6cd&clientId=u56ab3deb-7bd0-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=256&id=uc8bb1b1c&margin=[object Object]&name=image.png&originHeight=512&originWidth=1636&originalType=binary&ratio=1&rotation=0&showTitle=false&size=370037&status=done&style=none&taskId=u86b3d042-ef0b-4908-8104-0c4d9fbb6d8&title=&width=818)
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/177619/1670169004877-d8cb6acc-1f6d-4cc0-a969-801424ea106f.png?x-oss-process=image%2Fresize%2Cw_1500%2Climit_0)
 
 ### 人脉关系
 
@@ -83,7 +83,7 @@ DigitalOcean 创建 Droplet，安装 influxdb + grafana，通过 caddy 配置反
 2.  MoneyWiz 本周已经出现交通通信和文教娱乐超出预算，今年20W预算看起来不还一定够。
    
 3.  投资，除了可见的好机会买入卖出操作，还要有稳定的现金流。既然确定了大方向，那么就不要在小事情上浪费精力，把精力投入在其它重要的事情上。
-   
+
 
 ## 总结分享
 
