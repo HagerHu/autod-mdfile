@@ -1,5 +1,5 @@
 ---
-title: "每周总结2022W50"
+title: "集合数据隐私政策"
 date: 2022-12-20T21:21:20+08:00
 draft: false
 categories:
