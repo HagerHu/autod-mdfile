@@ -1,7 +1,7 @@
 ---
 title: "集合数据隐私政策"
 date: 2022-12-20T21:21:20+08:00
-draft: false
+draft: true
 categories:
   - "量化自我"
 tags:
