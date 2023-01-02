@@ -5,8 +5,8 @@ draft: true
 categories:
   - "Blog"
 tags:
-  - "Apple Watch"
-  - "Quantified Self"
+  - "quantifiedself"
   - "量化自我"
+  - "时间跟踪"
 ---
 

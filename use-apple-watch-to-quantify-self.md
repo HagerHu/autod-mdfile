@@ -3,12 +3,11 @@ title: "使用 Apple Watch 运动和量化自我"
 date: 2022-11-21T16:14:20+08:00
 draft: false
 categories:
-  - "Blog"
-tags:
-  - "Apple Watch"
-  - "Quantified Self"
   - "量化自我"
-  - "智能设备"
+tags:
+  - "Apple workout"
+  - "quantifiedself"
+  - "量化自我"
 ---
 
 我是在读了耐克创始人菲尔·奈特的亲笔自传《鞋狗》后开始认真跑步的。

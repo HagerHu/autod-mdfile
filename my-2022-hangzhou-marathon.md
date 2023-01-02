@@ -5,11 +5,8 @@ draft: false
 categories:
   - "健康运动"
 tags:
-  - "马拉松"
   - "杭州马拉松"
-  - "量化自我"
   - "Marathon"
-  - "跑步"
   - "跑着看世界"
 ---
 

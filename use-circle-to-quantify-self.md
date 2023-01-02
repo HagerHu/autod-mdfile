@@ -5,13 +5,9 @@ draft: false
 categories:
   - "量化自我"
 tags:
-  - "Sleep Analysis"
-  - "Quantified Self"
-  - "Gyroscope"
-  - "Workout"
-  - "量化自我"
-  - "运动训练"
-  - "马拉松"
+  - "睡眠跟踪"
+  - "体能训练"
+  - "时间管理"
 ---
 
 集合，属于健康类应用。专注于个人自我量化，看见成长。
