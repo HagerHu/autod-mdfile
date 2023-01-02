@@ -1,5 +1,5 @@
 ---
-title: "阿里十年系列之间隔年"
+title: "阿里十年：间隔年"
 date: 2022-11-13T14:40:20+08:00
 draft: false
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "阿里十年系列开篇"
+title: "阿里十年：开篇"
 date: 2022-11-11T19:20:20+08:00
 draft: false
 categories:
