@@ -240,9 +240,9 @@ Twitter: [@hagerhu](https://twitter.com/HagerHu)
 
 Youtube: [@hagerhu](https://www.youtube.com/@hagerhu)
 
-Wechat: @hagerhu
+Wechat: [@hagerhu](wechat://hagerhu)
 
-Telegram: @hagerhu
+Telegram: [@hagerhu](https://t.me/hagerhu)
 
 
 
