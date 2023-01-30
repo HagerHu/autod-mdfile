@@ -35,7 +35,7 @@ tags:
 
 马灯、算盘、陶瓷茶壶、搪瓷茶缸，这些曾经儿时见过的东西，如今已经基本销声匿迹。
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675040999954-2e26ddae-bc22-40a8-96f4-170a1e9f80f7.png#averageHue=%23918b82&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=407&id=u974e5fa5&margin=[object Object]&name=image.png&originHeight=814&originWidth=2368&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3314050&status=done&style=none&taskId=ud6d9bbcb-29ce-45d3-a333-1e39dd61e0a&title=&width=1184) 
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675040999954-2e26ddae-bc22-40a8-96f4-170a1e9f80f7.png#averageHue=%23918b82&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=407&id=u974e5fa5&margin=%5Bobject%20Object%5D&name=image.png&originHeight=814&originWidth=2368&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3314050&status=done&style=none&taskId=ud6d9bbcb-29ce-45d3-a333-1e39dd61e0a&title=&width=1184) 
 
 初三去了红色朱村。
 
@@ -59,7 +59,7 @@ tags:
 
 从去年开始俄乌冲突，主要看两个频道了解俄乌局势，一个是俄乌沙盘，一个是萨沙频道。 
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675041187630-1ddf3de1-70bd-40a9-baa1-88fdba47f56f.png#averageHue=%23cfcbc6&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=321&id=u6a2d1718&margin=[object Object]&name=image.png&originHeight=642&originWidth=1324&originalType=binary&ratio=1&rotation=0&showTitle=false&size=605679&status=done&style=none&taskId=u1d35c316-dd58-4079-9425-96a83326d2b&title=&width=662) 
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675041187630-1ddf3de1-70bd-40a9-baa1-88fdba47f56f.png?x-oss-process=image%2Fresize%2Cw_1324%2Climit_0) 
 
 俄乌沙盘讲的很清楚，首先讲俄乌战线划分为几条大的战线，然后逐条战线讲述当前的形势，每条战线的军力排布，再加上自己对战线最近局势的变化和解读。看了之后一目了然，知道讲的是哪里，当前是哪一方占据优势。
 
