@@ -41,13 +41,14 @@ tags:
 
 沂蒙的煎饼，马头的朝牌，以前的石磨，
 
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675040875645-e91e1a77-f2fd-441d-a152-6d70a72da8de.png#averageHue=%23756652&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=335&id=uee447867&margin=%5Bobject%20Object%5D&name=image.png&originHeight=670&originWidth=2582&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3252641&status=done&style=none&taskId=u19b6b276-81d5-49ed-b1a1-76402dc68e7&title=&width=1291)
+
 压水井，五虎/大炮轰洋人的下棋玩法，还有婚俗乃至农耕工具，如今很多也已经不常看见。
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675040875645-e91e1a77-f2fd-441d-a152-6d70a72da8de.png#averageHue=%23756652&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=335&id=uee447867&margin=[object Object]&name=image.png&originHeight=670&originWidth=2582&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3252641&status=done&style=none&taskId=u19b6b276-81d5-49ed-b1a1-76402dc68e7&title=&width=1291) 
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675040345122-19797fc3-27a0-4545-91b1-196864dd7539.png#averageHue=%239a998b&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=596&id=uf7612186&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1192&originWidth=1766&originalType=binary&ratio=1&rotation=0&showTitle=false&size=4043670&status=done&style=none&taskId=u710d49ef-91e8-43be-9c2c-0e3a028f16a&title=&width=883)
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675040345122-19797fc3-27a0-4545-91b1-196864dd7539.png#averageHue=%239a998b&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=596&id=uf7612186&margin=[object Object]&name=image.png&originHeight=1192&originWidth=1766&originalType=binary&ratio=1&rotation=0&showTitle=false&size=4043670&status=done&style=none&taskId=u710d49ef-91e8-43be-9c2c-0e3a028f16a&title=&width=883) 沂蒙近代婚俗 
-
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675040292772-39193b83-80aa-4d1b-a165-acd8b90e8b47.png#averageHue=%237da19a&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=450&id=u424b1def&margin=[object Object]&name=image.png&originHeight=900&originWidth=1766&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3041478&status=done&style=none&taskId=ue466e79f-6f0e-4d6d-bc8a-554009e8f57&title=&width=883) 
+沂蒙近代婚俗
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1675040292772-39193b83-80aa-4d1b-a165-acd8b90e8b47.png#averageHue=%237da19a&clientId=ue0b6971f-5454-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=450&id=u424b1def&margin=%5Bobject%20Object%5D&name=image.png&originHeight=900&originWidth=1766&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3041478&status=done&style=none&taskId=ue466e79f-6f0e-4d6d-bc8a-554009e8f57&title=&width=883)
 
 在大姐家的聚餐，我还能回忆起去年国庆醉酒后的难受，也能想起小时候和小外甥一起玩耍时的场景，
 
