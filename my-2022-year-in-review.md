@@ -167,18 +167,20 @@ tags:
 
 ![img](https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1675247119217-234abdb6-411a-4b47-a347-da21e94898c3.jpeg)
 
-时间跟踪：Tyme 2
+时间跟踪：[Tyme 2](https://t.cmcn.me/tyme)
 
-现金：MoneyWiz 3
+记账投资：[MoneyWiz 3](https://t.cmcn.me/moneywiz)
+
+量化自我：[集合 Circle](https://t.cmcn.me/app)
+
+睡眠：[AutoSleep](https://t.cmcn.me/autosleep)、[Pillow](https://t.cmcn.me/pillow)
+
+健身：Apple Watch & Workout
 
 投资：富途牛牛、平安证券
 
 读书：微信读书
 
 旅行：温岭石塘、湖州南太湖、石浦渔山岛、湖南岳阳楼、江西庐山、宣恩狮子关、东天目山、鹤峰木耳山
-
-睡眠：AutoSleep、Pillow
-
-健身：Apple Watch & Workout
 
 设备：大疆 mini3 pro、高驰 Pace 2, GoPro 8 Hero Black，Apple Watch S7，小天才Z5A
