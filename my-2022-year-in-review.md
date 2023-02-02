@@ -165,6 +165,10 @@ tags:
 
 ## 量化的数据图表
 
+量化的数据涉及看过的电影，读过的图书，买过的设备，去过的地方
+
+还有 iPhone 健身中的运动圆环和奖章，咕咚统计的跑步和骑行图表， 时间跟踪数据，记账预算，投资收益。
+
 ![img](https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1675247119217-234abdb6-411a-4b47-a347-da21e94898c3.jpeg)
 
 时间跟踪：[Tyme 2](https://t.cmcn.me/tyme)
@@ -184,3 +188,11 @@ tags:
 旅行：温岭石塘、湖州南太湖、石浦渔山岛、湖南岳阳楼、江西庐山、宣恩狮子关、东天目山、鹤峰木耳山
 
 设备：大疆 mini3 pro、高驰 Pace 2, GoPro 8 Hero Black，Apple Watch S7，小天才Z5A
+
+
+
+---
+
+既然你已经看到这里，谢谢你耐心看完
+
+喜欢我的话请收藏我的[个人站](https://hagerhu.com)，或者微信搜索关注我的公众号 [寒峰路](https://mp.weixin.qq.com/s/3ZedBWqgzPOXMyLkfcwIeg)
