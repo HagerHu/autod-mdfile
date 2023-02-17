@@ -1,5 +1,5 @@
 ---
-title: "我的跑步装备和量化实践"
+title: "我的跑步三件套和量化实践"
 date: 2023-02-07T09:53:20+08:00
 draft: false
 categories:
