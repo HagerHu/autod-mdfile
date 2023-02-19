@@ -11,7 +11,7 @@ tags:
   - "投资好书"
 ---
 
-## ![img](https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1676813536451-70f77c4c-3be3-4c01-84ef-e38942c27f7d.jpeg)
+![img](https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1676813536451-70f77c4c-3be3-4c01-84ef-e38942c27f7d.jpeg)
 
 ## 使用数学思维
 
