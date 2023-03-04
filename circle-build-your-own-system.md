@@ -1,5 +1,5 @@
 ---
-title: "集合 - 构建你的个人系统"
+title: "构建你的个人系统"
 date: 2023-03-04T14:22:33+08:00
 draft: false
 summary: 华尔街投资大神、对冲基金公司桥水创始人瑞·达利欧在「原则」中提到，构建并进化你的机器。之前看到文章 Set Direction with Goals, Make Progress with Systems 也深受启发，设定目标以确定方向，运用系统以取得进展。集合，就是我为自己构建的个人机器和系统。
