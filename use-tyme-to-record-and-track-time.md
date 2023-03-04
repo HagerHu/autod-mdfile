@@ -30,7 +30,7 @@ image: "https://cdn.sspai.com/2023/02/22/dc60c1dcbad5b9bbb8203d395e5dcf25.png?im
 
 2018 年 9 月，意识到自己需要时间跟踪，先后购买了 Tyme 2 的 iPhone 和 Mac 版本。下图是从开始到现在的 Tyme 年度统计数据，通过数据来回顾一下这几年的使用心路路程。
 
-![img](https://cdn.sspai.com/2023/02/22/9ff735efd8d05d16b19a4ee65818211e.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)Tyme 年度统计
+![img](https://cdn.sspai.com/2023/02/22/9ff735efd8d05d16b19a4ee65818211e.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)<p style="text-align: center;">Tyme 年度统计</p>
 
 身为程序员，平时主要以使用电脑为主，Mac 版本可以设置快捷键开始记录和结束某项任务。没有 Mac 在身边，我才用得上 iPhone 版。
 
