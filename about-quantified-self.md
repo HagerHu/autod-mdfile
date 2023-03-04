@@ -3,7 +3,7 @@ title: "关于量化自我"
 date: 2022-11-20T20:52:33+08:00
 draft: false
 categories:
-  - "量化自我"
+  - "记录量化"
 tags:
   - "Quantified Self"
   - "量化自我"

@@ -3,7 +3,7 @@ title: "使用 Apple Watch 运动和量化自我"
 date: 2022-11-21T16:14:20+08:00
 draft: false
 categories:
-  - "量化自我"
+  - "记录量化"
 tags:
   - "Apple workout"
   - "quantifiedself"

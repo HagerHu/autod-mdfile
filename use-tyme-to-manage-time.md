@@ -3,7 +3,7 @@ title: "使用 Tyme 做时间管理"
 date: 2023-02-02T11:52:20+08:00
 draft: false
 categories:
-  - "经验实践"
+  - "记录量化"
 tags:
   - "Tyme"
   - "时间管理"
