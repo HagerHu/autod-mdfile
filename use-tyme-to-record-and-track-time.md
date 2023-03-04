@@ -34,7 +34,7 @@ image: "https://cdn.sspai.com/2023/02/22/dc60c1dcbad5b9bbb8203d395e5dcf25.png?im
 
 身为程序员，平时主要以使用电脑为主，Mac 版本可以设置快捷键开始记录和结束某项任务。没有 Mac 在身边，我才用得上 iPhone 版。
 
-![img](https://cdn.sspai.com/2023/02/22/67add92b7d873b303deb35e4a2294c1e.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)Tyme Mac 快捷键设置
+![img](https://cdn.sspai.com/2023/02/22/67add92b7d873b303deb35e4a2294c1e.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)<p style="text-align: center;">Tyme Mac 快捷键设置</p>
 
 左上角的图是 2018 年时，我在阿里云 IoT 事业部做物联网开发平台，工作内容是基础组件开发，基于组件和框架生成上层应用。另外，文档也是开发平台的重要部分。因此把时间分为「组件 & 文档」和「框架 & 应用」两个项目。到了年底，跟踪的数据寥寥可数，基本就只是开了个头。
 
@@ -51,7 +51,7 @@ image: "https://cdn.sspai.com/2023/02/22/dc60c1dcbad5b9bbb8203d395e5dcf25.png?im
 
 2021 年相比 2020 年，是懈怠的一年，就像是三年之痒。懒懒散散过了快一年，到了十月才发现这个习惯就快要没了，才又开始在 11 月、12 月有意识跟踪。这个时候领悟到一个道理，就是开始很容易，能坚持下来没那么容易。
 
-![img](https://cdn.sspai.com/2023/02/22/0f835b9025deef0817d700340998e57b.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)2022 年度统计
+![img](https://cdn.sspai.com/2023/02/22/0f835b9025deef0817d700340998e57b.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)<p style="text-align: center;">2022 年度统计</p>
 
 2022 年跟踪的项目再次做了精简，只保留了 4 个项目，也在有意地将时间投入到这 4 个维度。22 年也是我目前为止跟踪时间和记录最长的一年，累计近 3695 小时。这一年，也是我坚持使用 Apple Watch 闭合运动圆环的一年。年度回顾时，自我感觉运动就是这一年最大的成就。2022 年我给自己的跑马目标是半程 140 完赛。最终全年跑步累计 380 小时，接近 2000 公里跑量；在 10 月 30 日的桐庐半程马拉松中，以 01:36:33 的净计时成绩完赛，配速接近 430，这是一个我从不曾想到的配速。
 
@@ -59,7 +59,7 @@ image: "https://cdn.sspai.com/2023/02/22/dc60c1dcbad5b9bbb8203d395e5dcf25.png?im
 
 2023 年，根据实际情况，我对记录规划再次做了调整。我保留了前一年的 4 个项目数量，正如四象限一样，只是调整了名称，让事项变得更具体，加上了整体的方向。
 
-![img](https://cdn.sspai.com/2023/02/22/5e1b998afa85a89873cd065640dbca32.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)2023 跟踪项目
+![img](https://cdn.sspai.com/2023/02/22/5e1b998afa85a89873cd065640dbca32.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)<p style="text-align: center;">2023 跟踪项目</p>
 
 ### 业务 & 收入
 
@@ -79,7 +79,7 @@ image: "https://cdn.sspai.com/2023/02/22/dc60c1dcbad5b9bbb8203d395e5dcf25.png?im
 
 这部分偏重亲身实践。生活中的很多行为慢慢形成习惯，有好习惯，也有坏习惯。曾经我早上到公司的第一件事就是划水，先浏览一遍社区和新闻再开始干活，后来意识到这个习惯不好，就改成每天早上第一件事想想有哪些事情要做，列个清单。达利欧在《原则》中提到，「反思+总结=进步」，再通过螺旋式反馈循环不断上升变得更好。
 
-![img](https://cdn.sspai.com/2023/02/22/abb955502c5ac05d2c9d68794442d25b.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)反馈循环 - 原则
+![img](https://cdn.sspai.com/2023/02/22/abb955502c5ac05d2c9d68794442d25b.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)<p style="text-align: center;">反馈循环 - 原则</p>
 
 对象时机力度则是投资重点关注的三个要素，买什么，什么时候买，买多少。因为之前自己就是那个举着火把穿越炸药库的傻子，没有买入公司的严密逻辑，这些就是投资以后自己需要重点思考的。
 
