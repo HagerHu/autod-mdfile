@@ -1,5 +1,5 @@
 ---
-title: "2022M02:当风险意识成为习惯"
+title: "2022M02：当风险意识成为习惯"
 date: 2023-03-04T19:50:20+08:00
 draft: false
 categories:

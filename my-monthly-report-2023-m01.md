@@ -1,5 +1,5 @@
 ---
-title: "2022M01:人生就是一场旅行"
+title: "2022M01：人生就是一场旅行"
 date: 2023-02-06T08:48:20+08:00
 draft: false
 categories:
