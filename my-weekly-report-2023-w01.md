@@ -1,5 +1,5 @@
 ---
-title: "辞旧迎新，欢迎2023"
+title: "2023W01：辞旧迎新，欢迎2023"
 date: 2023-01-01T18:16:20+08:00
 draft: false
 categories:
