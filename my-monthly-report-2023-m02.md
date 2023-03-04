@@ -111,4 +111,4 @@ tags:
 
 华尔街投资大神、对冲基金公司桥水创始人瑞·达利欧在「原则」中提到，构建并进化你的机器。
 
-目标指引我们前进的方向，系统应该让我们看见变化，取得进展。[集合](https://hagerhu.com/post/circle-build-your-own-system/)，就是我为自己构建的机器和系统，欢迎[下载](https://t.cmcn.me/app)和体验。
+目标指引我们前进的方向，系统让我们看见进展。[集合](https://hagerhu.com/post/circle-build-your-own-system/)，就是我为自己构建的机器和系统，欢迎[下载](https://t.cmcn.me/app)使用。
