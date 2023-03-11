@@ -15,24 +15,23 @@ tags:
   - "openAI chatGPT"
 ---
 
-本文来自 indiehackers.com，使用 OpenAI ChatGPT 翻译。
-原文：[How I bootstrapped my side project into a $20k/mo lifestyle business](How I bootstrapped my side project into a $20k/mo lifestyle business)。
+本文来自 indiehackers.com，使用 OpenAI ChatGPT 翻译。原文：[How I bootstrapped my side project into a $20k/mo lifestyle business](https://www.indiehackers.com/interview/how-i-bootstrapped-my-side-project-into-a-20k-mo-lifestyle-business-063525ef84)。截止 2023.03.11，750 Words 月活用户已经接近 450K (数据见本文最后截图，来自 SimilarWeb)，相比文章发布时已经增长了 14 倍。按照 20K MRR/30K MAU 算，目前 MRR 至少 10W 美元。
 
----
+------
 
-![CleanShot 2023-03-11 at 10.57.14@2x.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1678503445123-327f3fa5-ba3d-44bd-9283-503fdc55fac4.png#averageHue=%232f445f&clientId=udf9c504b-7533-4&from=paste&height=86&id=ub6413ebd&name=CleanShot%202023-03-11%20at%2010.57.14%402x.png&originHeight=172&originWidth=1544&originalType=binary&ratio=2&rotation=0&showTitle=false&size=134773&status=done&style=none&taskId=uc4a2415a-a47f-499b-98c6-cd35cf6626d&title=&width=772)
+![img](https://cdn.nlark.com/yuque/0/2023/png/177619/1678503445123-327f3fa5-ba3d-44bd-9283-503fdc55fac4.png)
 
 # 你好！你的背景是什么，你正在做什么呢？
 
 你好！我叫Buster Benson。我想写一部伟大的美国小说，在获得创意写作学位后，我被网络的奇妙吸引住了（大约在1998年开始，包括Diaryland、LiveJournal和Weblogs等）。我大学毕业后加入了亚马逊，在工作中学习了编码，很长一段时间没有回头。我在2003年共同创立了机器人合作社，建造了43things.com（现已关闭）。我开发了一个早期的iPhone应用程序叫做Locavore。我共同创立了McLeod Residence，这是一个艺术画廊和酒吧，在2006年至2009年期间位于西雅图，然后创立了Habit Labs，该公司在此之后建立了healthmonth.com。我喜欢拥有许多转动的盘子，多年来许多盘子都倒下和崩溃了，但其中一些仍在持续！
 
-![CleanShot 2023-03-11 at 10.39.53@2x.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1678502408133-0807be2f-536c-4d90-bbdb-2a3cd255ade4.png#averageHue=%23eeeee0&clientId=udf9c504b-7533-4&from=paste&height=506&id=u2acf262d&name=CleanShot%202023-03-11%20at%2010.39.53%402x.png&originHeight=1012&originWidth=1484&originalType=binary&ratio=2&rotation=0&showTitle=false&size=1156283&status=done&style=none&taskId=u5c90de6e-2d7b-4d4d-bd8a-295426b28d3&title=&width=742)
+![img](https://cdn.nlark.com/yuque/0/2023/png/177619/1678502408133-0807be2f-536c-4d90-bbdb-2a3cd255ade4.png)
 
 750 Words是我在2009年一时兴起建立的网站，现在仍然很受欢迎。它将迎来成立10周年！这个网站允许您练习私人日志的日常习惯（与所有出版平台相反）。您写的文字会被保存和锁定，只有您能看到，因此您可以写下真正在您脑海中的想法，而不必担心它被公开。它基本上是Julia Cameron的《艺术家的方式》中所学到的晨间页面的数字版本。如果您每天写作，您将获得徽章和分析等功能。免费试用后，每月需支付5美元。
 
 截至今天，已有超过400,000人注册，并已写下超过50亿个单词。有968人连续写了365天以上，265人连续写了1,000天以上，68人连续写了2,000天以上。
 
-![CleanShot 2023-03-11 at 10.38.57@2x.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1678502365962-e33c9493-49a3-4461-9078-4330dd35cafe.png#averageHue=%23293749&clientId=udf9c504b-7533-4&from=paste&height=140&id=u688187c5&name=CleanShot%202023-03-11%20at%2010.38.57%402x.png&originHeight=280&originWidth=1476&originalType=binary&ratio=2&rotation=0&showTitle=false&size=185133&status=done&style=none&taskId=u5c51e3c8-f804-4b7c-8c21-6554f1060a1&title=&width=738)
+![img](https://cdn.nlark.com/yuque/0/2023/png/177619/1678502365962-e33c9493-49a3-4461-9078-4330dd35cafe.png)
 
 # 什么促使你开始使用750字？
 
@@ -44,11 +43,7 @@ tags:
 
 # 构建初始产品的过程中需要哪些步骤？
 
-我用Ruby on Rails和jQuery在一个共享服务器上大约花了一周的时间建造了网站的第一个版本。我雇了一位设计师来帮我制作一些徽章。在接下来的几年里，我会不时地添加功能，但最终支持工作占用了我们所有的空闲时间。
-
-最大的挑战始终是及时回应所有失去密码或因个人或错误相关原因打破连续写作记录的人们。因为它是关于每天写作的，而一天结束于午夜，经常有很多人在当天结束时写作，这会导致网站崩溃，然后连续写作记录被打破。该网站具有奇怪的架构，因为大多数数据库查询是写入表而不是读取。
-
-在2009年，我们是唯一做自动保存功能的地方之一，我用jQuery编写了所有的代码，但可能没有优化得很好。现在我们有了更高级的方法来做所有这些事情（我认为目前我的最爱是Vue + Nuxt + Netlify的JAM堆栈），但我只是在幻想最终的重构。
+我用Ruby on Rails和jQuery在一个共享服务器上大约花了一周的时间建造了网站的第一个版本。我雇了一位设计师来帮我制作一些徽章。在接下来的几年里，我会不时地添加功能，但最终支持工作占用了我们所有的空闲时间。最大的挑战始终是及时回应所有失去密码或因个人或错误相关原因打破连续写作记录的人们。因为它是关于每天写作的，而一天结束于午夜，经常有很多人在当天结束时写作，这会导致网站崩溃，然后连续写作记录被打破。该网站具有奇怪的架构，因为大多数数据库查询是写入表而不是读取。在2009年，我们是唯一做自动保存功能的地方之一，我用jQuery编写了所有的代码，但可能没有优化得很好。现在我们有了更高级的方法来做所有这些事情（我认为目前我的最爱是Vue + Nuxt + Netlify的JAM堆栈），但我只是在幻想最终的重构。
 
 该网站仍在使用古老的Rails（2.3）版本和JQuery，尽管我们计划可能在今年重写大量内容。这会让人感到兴奋。
 
@@ -64,11 +59,11 @@ tags:
 
 我们对已经连续写作了100天的人进行了一系列的采访，称之为“凤凰殿堂”（Hall of Phoenixes）（这里是一个例子）。这对我来说是非常有回报的，我认为这真的帮助强调了屏幕后面的人，让它更加人性化。尽管整个网站都是关于私人写作的，但事实证明，你仍然可以建立一个相当强大的社区。
 
-![CleanShot 2023-03-11 at 10.38.37@2x.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1678502329927-a44e3b42-aeac-4249-8ad2-e4fa819a6d9f.png#averageHue=%232b394b&clientId=udf9c504b-7533-4&from=paste&height=190&id=ub3eca6a7&name=CleanShot%202023-03-11%20at%2010.38.37%402x.png&originHeight=380&originWidth=1496&originalType=binary&ratio=2&rotation=0&showTitle=false&size=276914&status=done&style=none&taskId=ub902cb70-98f0-4475-b1df-e7f1467a496&title=&width=748)
+![img](https://cdn.nlark.com/yuque/0/2023/png/177619/1678502329927-a44e3b42-aeac-4249-8ad2-e4fa819a6d9f.png)
 
 回想起来，因为某些看起来注定会失败的原因，我在那年8月推出了一个名为 Health Month 的新网站和业务。我想我认为通过一个行为改变的网站赚钱会比一个写作网站更容易，所以我为它筹集了资金并雇了人等等。有一段时间它似乎在起作用，但最终变得清楚的是，写作网站实际上是更好的生意。谁能想到呢！当 Health Month 几年后消失时，我在 Twitter 上找了一份工作，搬到了湾区，并发表了一篇文章，问 750 Words 的用户我应该怎么做。我列出了五个选项：出售网站（实际上不是我考虑的选项），雇用帮手，关闭网站，将其变成付费网站，什么都不做。令人惊讶的是，大多数人投票要将其变成付费网站，所以在接下来的几个月里，我们就这么做了。当时我非常倾向于关闭网站，但现在我非常高兴我们选择了保持它的运营。从那时起，它一直以非常缓慢的速度增长。
 
-到2011年底，我们有100,000名注册用户和约1,000名付费用户。八年后，我们有430,000名注册用户和4,000名付费用户。除了错误修复和一些新徽章（如2000天连续徽章和200万字徽章)之外，自2011年以来，该网站基本保持不变，但我们很高兴今年终于能够投入更多的精力。
+到2011年底，我们有100,000名注册用户和约1,000名付费用户。八年后，我们有430,000名注册用户和4,000名付费用户。除了错误修复和一些新徽章（如2000天连续徽章和200万字徽章）之外，自2011年以来，该网站基本保持不变，但我们很高兴今年终于能够投入更多的精力。
 
 我们自认为这个小想法之所以成功，部分原因在于我们对挑战的透明度。当事情开始崩溃时，我们承认了这一点，并在我们可以选择的选项中包括了社区的意见。虽然把我们的每个缺陷和限制公开展示给所有人批评并不总是感觉很好，但最终，这帮助我们在解决挑战时建立了信任和善意。
 
@@ -78,7 +73,7 @@ tags:
 
 在2009年至2011年间，当我们还是一个基于捐款的服务时，我们的收入达到了每月大约2000美元的峰值。这些年来我们的收入逐渐增长，成本也有所增加，但增长速度不一样。
 
-![CleanShot 2023-03-11 at 10.43.30@2x.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1678502623192-cca3871a-3328-48f0-a8b9-b733fb692089.png#averageHue=%2325364b&clientId=udf9c504b-7533-4&from=paste&height=186&id=ue9c916bb&name=CleanShot%202023-03-11%20at%2010.43.30%402x.png&originHeight=372&originWidth=1480&originalType=binary&ratio=2&rotation=0&showTitle=false&size=109347&status=done&style=none&taskId=uf4c6872a-1e91-4a7b-9c6e-b9bffb16efd&title=&width=740)
+![img](https://cdn.nlark.com/yuque/0/2023/png/177619/1678520236454-11cde824-237b-4c3a-8aed-9e9476350068.png)
 
 # 你们未来的目标是什么？
 
@@ -95,7 +90,10 @@ tags:
 # 你们发现有什么特别有帮助或优势的东西吗？
 
 I like what [Sahil](https://www.indiehackers.com/interview/4fc6cbc0e8) tweeted the other day:
-![CleanShot 2023-03-11 at 10.51.45@2x.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1678503125846-1e1e6368-31bc-4a31-b5ca-939617c085e8.png#averageHue=%23fcfcfc&clientId=udf9c504b-7533-4&from=paste&height=783&id=u5461965b&name=CleanShot%202023-03-11%20at%2010.51.45%402x.png&originHeight=1566&originWidth=1478&originalType=binary&ratio=2&rotation=0&showTitle=false&size=752474&status=done&style=none&taskId=u075bfb2f-a6c3-4309-b711-03dc74e496c&title=&width=739)
+
+![img](https://cdn.nlark.com/yuque/0/2023/png/177619/1678503125846-1e1e6368-31bc-4a31-b5ca-939617c085e8.png)
+
+
 
 我非常支持有意识的非优化。最重要的优化是无法测量的，试图这样做可能会在很多方面上杀死这个项目。
 
@@ -107,7 +105,7 @@ I like what [Sahil](https://www.indiehackers.com/interview/4fc6cbc0e8) tweeted t
 
 # 对于刚刚开始的独立开发者，你们有什么建议？
 
-![CleanShot 2023-03-11 at 10.53.16@2x.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1678503209087-1ac9181b-bc63-4d99-a4bf-022aa1599308.png#averageHue=%232d3a4c&clientId=udf9c504b-7533-4&from=paste&height=93&id=ufb3f3b60&name=CleanShot%202023-03-11%20at%2010.53.16%402x.png&originHeight=186&originWidth=1348&originalType=binary&ratio=2&rotation=0&showTitle=false&size=131092&status=done&style=none&taskId=u26706cab-4b7c-46c6-870e-c9ebb922984&title=&width=674)
+![img](https://cdn.nlark.com/yuque/0/2023/png/177619/1678503209087-1ac9181b-bc63-4d99-a4bf-022aa1599308.png)
 
 我的建议是：始终从自己和世界的北极星开始——你想要带来什么改变？
 
@@ -115,10 +113,12 @@ I like what [Sahil](https://www.indiehackers.com/interview/4fc6cbc0e8) tweeted t
 
 # 我们可以去哪了解更多信息？
 
-想要了解更多信息，可以前往我的个人网站bister.wiki。我最受欢迎的文章是《认知偏差速查表》（cognitive bias cheat sheet），此外在Medium上还有许多不太受欢迎的文章。对我自己生活增值最多的文章是我的“信念文件”（beliefs file）。我正在写一本书，会在我的新闻通讯中分享更新（以及其他事情）。我在Twitter上的账户是[@buster](https://twitter.com/buster)。
+想要了解更多信息，可以前往我的个人网站bister.wiki。我最受欢迎的文章是《认知偏差速查表》（cognitive bias cheat sheet），此外在Medium上还有许多不太受欢迎的文章。对我自己生活增值最多的文章是我的“信念文件”（beliefs file）。我正在写一本书，会在我的新闻通讯中分享更新（以及其他事情）。我在Twitter上的账户是@buster。
 
 我喜欢回答问题，所以请随时在评论区提问！
 
----
 
-![CleanShot 2023-03-11 at 10.58.17@2x.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1678503519332-b8c87416-ca81-4b5f-bfd4-4b84c040d60b.png#averageHue=%23e9ebe7&clientId=u84b08817-4e2c-4&from=paste&height=728&id=SH9lG&name=CleanShot%202023-03-11%20at%2010.58.17%402x.png&originHeight=1456&originWidth=922&originalType=binary&ratio=2&rotation=0&showTitle=false&size=694342&status=done&style=none&taskId=uc90059ab-7bf0-4a97-a98f-cc3dd6a7331&title=&width=461)
+
+------
+
+![img](https://cdn.nlark.com/yuque/0/2023/png/177619/1678503519332-b8c87416-ca81-4b5f-bfd4-4b84c040d60b.png)
