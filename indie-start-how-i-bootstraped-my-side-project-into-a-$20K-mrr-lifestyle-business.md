@@ -15,7 +15,11 @@ tags:
   - "openAI chatGPT"
 ---
 
-本文来自 indiehackers.com，使用 OpenAI ChatGPT 翻译。原文：[How I bootstrapped my side project into a $20k/mo lifestyle business](https://www.indiehackers.com/interview/how-i-bootstrapped-my-side-project-into-a-20k-mo-lifestyle-business-063525ef84)。截止 2023.03.11，750 Words 月活用户已经接近 450K (数据见本文最后截图，来自 SimilarWeb)，相比文章发布时已经增长了 14 倍。按照 20K MRR/30K MAU 算，目前 MRR 至少 10W 美元。
+原文链接：[How I bootstrapped my side project into a $20k/mo lifestyle business](https://www.indiehackers.com/interview/how-i-bootstrapped-my-side-project-into-a-20k-mo-lifestyle-business-063525ef84)。
+
+截止 2023.03.11，750 Words 月活用户已经接近 450K (数据见本文最后截图，来自 SimilarWeb)，相比文章发布时已经增长了 14 倍。按照 20K MRR/30K MAU 算，目前 MRR 至少 10W 美元。
+
+本文来自 indiehackers.com，使用 OpenAI ChatGPT 翻译。
 
 ------
 
