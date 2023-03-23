@@ -3,7 +3,7 @@ title: "我的2022杭州马拉松"
 date: 2022-11-24T22:52:33+08:00
 draft: false
 categories:
-  - "健康运动"
+  - "记录量化"
 tags:
   - "杭州马拉松"
   - "Marathon"
