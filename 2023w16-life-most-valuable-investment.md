@@ -11,12 +11,12 @@ tags:
   - "每周总结"
   - "记录量化"
   - "志趣相投"
-image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1681704759695-fa36499e-2c77-409c-bd6b-60965cbc8aad.png"
+image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1682408789348-00ac1092-ceac-438c-b40d-3b6cf7f84bf1.png"
 ---
 
 ### 人生最有价值的投资
 
-![album_temp_1681702527.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1681704759695-fa36499e-2c77-409c-bd6b-60965cbc8aad.png)
+![album_temp_1681702527.png](https://cdn.nlark.com/yuque/0/2023/png/177619/1682408789348-00ac1092-ceac-438c-b40d-3b6cf7f84bf1.png)
 
 世界那么大，我想去看看；有时候，你与世界，只差一场旅行。
 
