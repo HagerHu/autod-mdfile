@@ -34,7 +34,7 @@ image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1683496475114-eda0394e-073
 
 顺着 Buffer 上找到了网站上的 resource 内容，在 Open Blog 专栏看完了 [Buffer turned 12 today! Here are some of our favorite stories, memories, and lessons](https://buffer.com/resources/buffer-turns-12/) 这篇 Buffer 12周年的回顾，创始人 Joel 分享了创立 Buffer 以来的 3 个难忘时刻，分别是 2010 年启动 Buffer 几天后收到第一笔付费，2014 年拒绝了高达 9 位数的收购报价，2017 年公司作为整体第一次进行分红。接着读完了Joel 的 Buffer 10 周年回顾文章：[Reflecting on 10 Years of Building Buffer](https://buffer.com/resources/10-years/)，在这篇文章中以年为维度回顾了 Buffer 从 2010 到 2020 年的十年历程。在这10年里，可以看到 Buffer 从成立到成长，从收购到分红的重要事件。
 
-10年对于人的一生来说已经不短，毕竟能够奋力拼搏的也就三四个10年，10年也已经足以改变一个人。2022年双11的时候，也曾写下自己的阿里十年，分为了3个时间段，分别是 [[阿里十年 开篇]]、[[阿里十年 间隔年]]、[[阿里十年 正篇]]，如果把我的阿里十年和 Joel 的 Buffer 十年相比，那就不是一个维度。
+10年对于人的一生来说已经不短，毕竟能够奋力拼搏的也就三四个10年，10年也已经足以改变一个人。2022年双11的时候，也曾写下自己的阿里十年，分为了3个时间段，分别是 [阿里十年 开篇](https://hagerhu.com/post/my-ten-years-at-ali-first/)、[阿里十年 间隔年](https://hagerhu.com/post/my-ten-years-at-ali-gap-year/)、[阿里十年 正篇](https://hagerhu.com/post/my-ten-years-at-ali-main/)，如果把我的阿里十年和 Joel 的 Buffer 十年相比，那就不是一个维度。
 
 是的，十年可以改变一个人，既然现在已经时间自由，那么再也没有理由给自己借口说没有时间，而是要认准自己前进的方向，向着方向不断前行吧，希望新的十年能够达到 Joel 这样的高度。
 
