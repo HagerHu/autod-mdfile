@@ -18,7 +18,7 @@ tags:
 
 和阿里一起走过12个春秋，阿里花名 寒峰，「独钓寒江雪，山高人为峰」。
 
-现在给自己一段时间，开始写作 [寒峰路](https://hagerhu.com)，做自己的项目 [集合量化](https://t.cmcn.me/app)。
+现在给自己一段时间，开始写作 [寒峰路](https://hagerhu.com)，做自己的项目 [集合量化](https://t.cmcn.me/app)，构建自己的 [个人系统](https://cmcn.me/link?target=https://usistem.com)。
 
 ## 跑马之旅
 
