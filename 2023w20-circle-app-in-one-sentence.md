@@ -12,6 +12,8 @@ tags:
 image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1684115913694-aa7370a6-bcf1-42ef-b4c3-b09bcbc2a4ab.png"
 ---
 
+![[住在九龙湾民宿，早上醒来看到的第一眼千岛湖]](https://cdn.nlark.com/yuque/0/2023/png/177619/1684115913694-aa7370a6-bcf1-42ef-b4c3-b09bcbc2a4ab.png)
+
 ### 一句话介绍集合应用
 
 增长黑客中都会用一句话来介绍某个产品或服务，比如云文件存储和共享服务 Dropbox，聚合类资讯网站 Digg，提供用户任意邮箱通讯录导入服务的 Octazen 等，我也不由想到应该怎样用一句话，用怎样的一句话来介绍集合应用。
