@@ -3,9 +3,9 @@ title: "世界杯和新冠感染"
 date: 2022-12-25T21:50:20+08:00
 draft: false
 categories:
-  - "反思总结"
-tags:
   - "每周总结"
+tags:
+  - "反思总结"
   - "反馈循环"
 ---
 

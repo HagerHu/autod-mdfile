@@ -3,9 +3,9 @@ title: "每周总结2022W49"
 date: 2022-12-04T22:20:20+08:00
 draft: false
 categories:
-  - "反思总结"
-tags:
   - "每周总结"
+tags:
+  - "反思总结"
   - "反馈循环"
 ---
 
