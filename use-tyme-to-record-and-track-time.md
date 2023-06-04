@@ -14,11 +14,7 @@ tags:
 image: "https://cdn.sspai.com/2023/02/22/dc60c1dcbad5b9bbb8203d395e5dcf25.png?imageMogr2/auto-orient/quality/95/thumbnail/!1420x708r/gravity/Center/crop/1420x708/interlace/1"
 ---
 
-本文发表于[少数派](https://sspai.com/post/78451)，社区精选后又被推荐到首页，第一次出现在少数派首页😄。
-
----
-
-对我们每个人来说，最宝贵的资源是时间，其次还有现金、经验和教育。
+对我们每个人来说，都拥有时间、经验、教育和现金这4项资产。毫无疑问，4 项资产中时间最为宝贵。
 
 从开始使用 [Tyme 2](https://apps.apple.com/us/app/tyme-2/id1063996724?mt=12) 记录和跟踪时间，到 2023 年已经是第六个年头。也正是在记录和跟踪时间之后，才知道时间都去了哪儿。有了数据和统计，也可以回顾那些做得好的、不好的，吸取教训总结经验，以后可以做得更好。
 
