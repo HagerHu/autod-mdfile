@@ -9,7 +9,7 @@ categories:
   - "每周总结"
 tags:
   - "反思总结"
-image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1685415096418-8d6ed144-9b14-477c-a728-a6e866a6c6ec.png"
+image: "https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/CleanShot%202023-06-04%20at%2022.07.49@2x.png"
 ---
 
 ![gap-between-goal-and-real](https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/CleanShot%202023-06-04%20at%2022.07.49@2x.png)
@@ -18,7 +18,7 @@ image: "https://cdn.nlark.com/yuque/0/2023/png/177619/1685415096418-8d6ed144-9b1
 
 周五去浙江图书馆，相比西湖图书馆、文二路博库书城，这里的桌椅高度现实更适合一些。
 
-![review goal of may](https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/CleanShot%202023-06-04%20at%2022.59.57@2x.png))
+![review goal of may](https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/CleanShot%202023-06-04%20at%2022.59.57@2x.png)
 
 回顾刚过去的 5 月份，看着月初定下的目标，回顾每一天发现现实与目标之间，差距是如此之大。当初定的目标，分别是新的应用推广渠道、博客显示健身训练记录、苹果公司财报阅读和继续湾区周报但分配好时间 4 个方面；到了月底，推广渠道想到了威锋社区，等级不够没有发帖权限，已经有段时间没去了；博客显示健身训练记录和苹果公司财报阅读从未开始；湾区周报虽在继续，但并没有很好的分配时间来阅读英文文章，还是会专门抽时间寻找和阅读，却有时间刷油管、B站，而且去黄山的那一周少了一起湾区周报，目前为止 4，5 月份各有一期没有发布。
 
