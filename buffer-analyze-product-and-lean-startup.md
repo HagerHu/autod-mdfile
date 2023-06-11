@@ -6,7 +6,7 @@ Summary: Tom Redman 和他的团队在 Buffer 内建立的社交分析解决方�
 Description: Tom Redman 和他的团队在 Buffer 内建立的社交分析解决方案 Buffer Analyze，并且很幸运地发现了产品/市场契合的早期迹象。这篇文章可以看做精益创业在 Buffer Analyze 实践，如何在限制条件下工作，如何确定新产品特性的范围，以及如何为客户构建和发布价值。
 keywords: ["湾区周报","精益创业","Buffer Analyze","产品范围","用户故事","工程范围","敏捷开发"]
 categories:
-  - "湾区周报"
+  - "走向独立"
 tags:
   - "记录量化"
   - "精益创业"

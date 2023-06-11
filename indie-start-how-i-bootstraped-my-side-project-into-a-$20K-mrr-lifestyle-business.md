@@ -6,7 +6,7 @@ summary: 750 Words是我在2009年一时兴起建立的网站，现在仍然很�
 description: 750 Words是我在2009年一时兴起建立的网站，现在仍然很受欢迎。它将迎来成立10周年！这个网站允许您练习私人日志的日常习惯。您写的文字会被保存和锁定，只有您能看到，因此您可以写下真正在您脑海中的想法，而不必担心它被公开。它基本上是Julia Cameron的《艺术家的方式》中所学到的晨间页面的数字版本。
 keywords: ["750words","indiehackers","艺术家的方式","The Artist's Way","Julia Cameron","chatGPT","openAI"]
 categories:
-  - "独立黑客"
+  - "走向独立"
 tags:
   - "indiehackers"
   - "750words"
