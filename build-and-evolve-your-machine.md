@@ -17,8 +17,6 @@ image: "https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/build-and-evolve.p
 你读过多少本关于奉劝你改变行为的书，而你也希望改变但最终未能改变？如果没有工具和计划的帮助，你觉得通过阅读本书你能改变多少？我猜的是几乎没什么改变。《原则》
 ```
 
-[集合](https://t.cmcn.me/app?ref=principle)是由达利欧的《原则》而来，是帮助你改变的工具🔧，反馈循环，实现螺旋式上升🔝。
-
 ## 选择你的目标
 
 尽管你几乎可以得到你想要的任何东西，但你不可能得到你想要的所有东西。
@@ -164,5 +162,7 @@ image: "https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/build-and-evolve.p
 也会知道你的时间都用在哪些事情上，知道你的时间都去哪了？
 
 
-如果你也觉得原则非常不错，认同上面提到的每一点，那么欢迎你下载和体验[集合](https://t.cmcn.me/app?ref=principle)。
+如果你也觉得原则非常不错，觉得上面提到的每一点都很有用，你也可以试试我做的[集合](https://t.cmcn.me/app?ref=principle)。
+
+集合由达利欧的《原则》而来，读过菲儿·奈特的《鞋狗》开始跑步，这是我在跑步过程中结合《原则》做的应用和工具🔧，践行反馈循环，实现螺旋式上升🔝。
 
