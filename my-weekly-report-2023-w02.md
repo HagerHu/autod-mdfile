@@ -74,27 +74,19 @@ tags:
 
 飞无人机的时候，发现电池基本上很快就会用完，后面基本都会选好景色后使用大师镜头来航拍了。
 
+![Xnapper-2023-01-16-20.23.46.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1673871847008-dcdd526f-94a5-4a88-b375-bd449b525b3d.jpeg#averageHue=%2358645d&clientId=u953047f9-6461-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=647&id=udab503df&margin=%5Bobject%20Object%5D&name=Xnapper-2023-01-16-20.23.46.jpg&originHeight=1294&originWidth=2724&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1404792&status=done&style=none&taskId=ua20642f7-56d9-4705-a436-d24bedbe058&title=&width=1362)
+
+
 方洞景区之后继续前往下一站 - 霞浦大京沙滩。
 
 雁荡山到霞浦大京沙滩看着距离不远，但是下了高速之后就是小路和山路，到达大京沙滩停车场的时候已经快晚上7点了。
 
 快到大京沙滩路过边上村庄的时候，买了这里的炒粉干，吃了炒粉干往景区门口走了一趟，回来后就早早的睡觉了。
 
+## 无人机航拍沙滩
 
-## 无人机沉落海底
+早上醒来6点多，发现天气还可以，正好可以去海边看日出。景区门口还发现有几个人在门口搭的帐篷，正好也准备去看日出。
 
-第二天早上醒来6点多，发现天气还可以，正好可以去海边看日出。于是，把两个娃也叫醒我们就忘景区门口走去。景区门口还发现有几个人在门口搭的帐篷，正好也准备去看日出。
+带着无人机看到不一样的风景和日出。
 
-看到孩子们玩沙子玩的开心，将无人机开启大师镜头开始航拍顺手将遥控器放到手拿包中，然后加入到孩子们挖沙子的行列。
-
-等我再拿出遥控器的时候，才发现不幸的事情发生了，收纳包挤压到了遥控器，无人机高度一直下降掉进了海里，失联了。
-
-幸运的是，前一天晚上发现SD卡空间已经满了，已经将其中的航拍视频导出到手机上，照片挑选着导出了一部分，只有路上用运动相机拍的视频和最后沙滩上的航拍视频随无人机一起沉到了海底。
-
-整理了部分无人机航拍的照片，用以纪念沉落海底的无人机。
-
-嘉兴南北湖和温州雁荡山![Xnapper-2023-01-16-20.23.46.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1673871847008-dcdd526f-94a5-4a88-b375-bd449b525b3d.jpeg#averageHue=%2358645d&clientId=u953047f9-6461-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=647&id=udab503df&margin=%5Bobject%20Object%5D&name=Xnapper-2023-01-16-20.23.46.jpg&originHeight=1294&originWidth=2724&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1404792&status=done&style=none&taskId=ua20642f7-56d9-4705-a436-d24bedbe058&title=&width=1362)
-霞浦大京沙滩，无人机沉落海底的地方
 ![Xnapper-2023-01-16-20.24.53.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/177619/1673871903191-1f306d3f-9e2e-4442-82bf-c3537219cf03.jpeg#averageHue=%2361625a&clientId=u953047f9-6461-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=681&id=u8ce28786&margin=%5Bobject%20Object%5D&name=Xnapper-2023-01-16-20.24.53.jpg&originHeight=1362&originWidth=2524&originalType=binary&ratio=1&rotation=0&showTitle=false&size=729869&status=done&style=none&taskId=uf9216746-fb35-4cd0-80f4-12c4fa4d741&title=&width=1262)
-
-发现之后立马联系了大疆飞丢专线，只能将飞行路线同步上去，然后大疆分析后再给结论。差不多前前后后搞了两个小时，路线也没同步上去，反正无人机是找不到了，也就只能前启程前往下一个目的地 - 平潭坛南湾。
