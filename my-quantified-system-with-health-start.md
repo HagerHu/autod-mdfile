@@ -16,10 +16,6 @@ image: "https://cdn.sspai.com/2023/03/08/df00091688e02ba9caa8ce28fdd97cb2.png"
 
 ---
 
-本文首次发表于 [少数派](https://sspai.com/post/78679) 社区精选，主要介绍从零开始构建的个人量化系统。
-
----
-
 华尔街投资大神、对冲基金公司桥水创始人瑞·达利欧在《原则》中提到，建造并进化你的机器。我把它深深的印在了脑海里，后来看到这篇文章 [Set Direction with Goals, Make Progress with Systems](https://sspai.com/link?target=https%3A%2F%2Fashleyjanssen.com%2Fset-direction-with-goals-make-progress-with-systems%2F) 也感受认同。文章的标题浅显易懂，是的，目标是我们前进的方向，系统则让我们在前进的路上知道我们现在走到了哪儿，距离目标还有多远。
 
 于是，我收拾行囊，带上宝剑，踏上了从零开始构建我的个人系统 - [集合](https://sspai.com/link?target=https%3A%2F%2Ft.cmcn.me%2Fapp) 的漫漫征途。
