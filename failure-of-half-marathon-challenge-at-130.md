@@ -64,7 +64,7 @@ image: "https://circle-index.oss-cn-hangzhou.aliyuncs.com/half-marathon-challeng
 
 ![how-to-failing-well-in-principles](https://circle-index.oss-cn-hangzhou.aliyuncs.com/how-to-failing-well-in-principles.png)
 
-达利欧在《原则》中提到螺旋式上升，目标、训练和比赛正是我跑步路上的向上螺旋，有158到135成功的喜悦，也有如今挑战130失败的滋味。还提到了正确地失败，可以从这次挑战失败中学到更多。
+达利欧在《原则》中提到螺旋式上升，目标、训练和比赛正是我跑步路上的向上螺旋，有158到135成功的喜悦，也有如今挑战130失败的滋味。《原则》也提到了如何正确地失败，可以从这次挑战失败中学到更多。
 
 ![2023-records-of-3-half-marathon](https://circle-index.oss-cn-hangzhou.aliyuncs.com/2023-records-of-3-half-marathon.png)
 
