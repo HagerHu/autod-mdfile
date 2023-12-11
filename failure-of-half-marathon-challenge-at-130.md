@@ -62,7 +62,7 @@ image: "https://circle-index.oss-cn-hangzhou.aliyuncs.com/half-marathon-challeng
 
 也是开始跑步之后的实践和反馈，我在一些浅显易懂的道理之上多了几分体会，选择什么，放弃什么，得到什么。选择了不只是为健康而跑，还想要通过跑马挑战自己，就不再有周末睡到很晚想着懒床，收获了很少间断的训练和汗水，也有了现在配速可见的进步。
 
--[how-to-failing-well-in-principles](https://circle-index.oss-cn-hangzhou.aliyuncs.com/how-to-failing-well-in-principles.png)
+![how-to-failing-well-in-principles](https://circle-index.oss-cn-hangzhou.aliyuncs.com/how-to-failing-well-in-principles.png)
 
 达利欧在《原则》中提到螺旋式上升，目标、训练和比赛正是我跑步路上的向上螺旋，有158到135成功的喜悦，也有如今挑战130失败的滋味。还提到了正确地失败，可以从这次挑战失败中学到更多。
 
