@@ -13,7 +13,7 @@ tags:
   - "旅行"
   - "投资"
   - "集合"
-image: "https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/understand-and-action.png"
+image: "https://circle-index.oss-cn-hangzhou.aliyuncs.com/2023-year-in-review.png"
 ---
 
 ## 读书和旅行的一年
@@ -71,6 +71,8 @@ image: "https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/understand-and-act
 2023年重读了不少书，重读时发现就像以前没有读过一样。读过《段永平投资问答录》才知道什么是投资，什么是专注，「买股票就是买公司，买公司就是买公司未来现金流的折现，句号」；重读《从0到1》指出苹果的竞争优势，发现即使机会摆在眼前可能依然抓不住；再读《股票作手回忆录》，才注意到「我的想法从来都没有替我赚过大钱，总是坚持不动替我赚大钱，明白吗？是我坚持不动」。
 
 读的越多，发现自己知道的越少，无论技术还是实力远远不够。今年能有正收益完全是运气，为了能够继续有收益，还得继续提升实力才行。
+
+![2023 year in review](https://circle-index.oss-cn-hangzhou.aliyuncs.com/2023-year-in-review.png)
 
 ---
 
