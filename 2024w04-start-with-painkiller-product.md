@@ -8,9 +8,9 @@ keywords: ["Marc","Product Hunt","Indie Hacker","minimal MVP","PainKiller","Vita
 categories:
   - "每周总结"
 tags:
-  - "独立开发"
+  - "产品和市场"
   - "最小化产品"
-  - "极简主义"
+  - "极简创业"
 image: "https://circle-journey.oss-cn-hangzhou.aliyuncs.com/799d75fa82474535f4541d11c058a38f.png"
 
 ---
