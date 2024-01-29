@@ -15,6 +15,8 @@ image: "https://circle-journey.oss-cn-hangzhou.aliyuncs.com/799d75fa82474535f454
 
 ---
 
+![Start with PainKiller Product](https://circle-journey.oss-cn-hangzhou.aliyuncs.com/799d75fa82474535f4541d11c058a38f.png)
+
 本周在推特上看到 Marc Lou 获得 Product Hunt 2024年度创作者，看完了 Marc Newsletter 中的所有文章内容，其中一些观点还是很受启发的。
 
 ### 止痛药vs维生素
