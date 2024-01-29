@@ -19,7 +19,9 @@ image: "https://circle-journey.oss-cn-hangzhou.aliyuncs.com/799d75fa82474535f454
 
 ### 止痛药vs维生素
 
-如果你没有大量的受众，就不要去做 Note-taking 类的产品。Marc 曾经做个 Habit Garden 产品，还上线了 App Store，但用户付费率很低，1.5年10w用户最终赚了也不过6000美元；后来作者开发的 Ship Fast 产品同样用户赚了却远比 10w 美元多得多。Habit Garden 后来已经被卖掉了，但 Ship Fast 是作者现在收入的主要来源。
+如果你没有大量的受众，就不要去做 Note-taking 类的产品。
+
+Marc 曾经做个 Habit Garden 产品，还上线了 App Store，但用户付费率很低，1.5年10w用户最终赚了也不过6000美元；后来开发的 Ship Fast 产品同样用户赚了却远比 10w 美元不止。Habit Garden 后来已经被卖掉了，但 Ship Fast 是作者现在收入的主要来源。
 
 > 100,000 visitors on my nice-to-have product website made $6,000.  
   100,000 visitors on my must-have product website made $100,000.
@@ -36,7 +38,7 @@ image: "https://circle-journey.oss-cn-hangzhou.aliyuncs.com/799d75fa82474535f454
 
 看过不少关于最小化可行产品的论述，但从没想过一个最小化产品能最小到哪种程度。
 
-Marc 在 [Minimum MVP: Build your startup in 24 hours](https://marclou.beehiiv.com/p/how-to-build-a-startup-in-24-hours) 中提到 极简最小化产品 有3个功能就已经足够了，分别是一个标题、一个购买按钮和一个产品功能。
+Marc 在 [Minimum MVP: Build your startup in 24 hours](https://marclou.beehiiv.com/p/how-to-build-a-startup-in-24-hours) 中提到 极简最小化产品 有3个部分就已经足够了，分别是一个标题、一个购买按钮和一个产品功能。
 
 > What’s enough for a minimal MVP?
 >  
@@ -52,11 +54,7 @@ Marc 在 [Minimum MVP: Build your startup in 24 hours](https://marclou.beehiiv.c
 
 > **Most of your efforts have 0 financial outcome—that’s entrepreneurship.** Spending months on a startup that will get 5 users and $100 in revenue is a recipe for burnout (I was there in 2021). Shipping minimal MVP in weeks is an alternative for mental well-being and financial success.
 
-Tony Dinh 在 [Building multiple products as an indie hacker](https://tdinh.notion.site/Building-multiple-products-as-an-indie-hacker-e7abf0b1cfcb4550869767326795c628) 中也提到他的产品开发思路。虽然想法很多，但无疑要选择最有潜力获得付费用户的那一个。
-
-> I have a lot of product ideas that I would build for myself, but I only decided to build ones that have the potential to also get paying customers.
-
-无论集合还是旅行🗺️，都花费了很多的时间开发，从创业角度讲无疑是不对的。既然时间是最重要的资产，那么就要选择高效的方式开发创造更有可能成功的产品。
+既然时间是最重要的资产，那么就要选择高效的方式开发创造更有可能成功的产品。
 
 ### 产品的市场反馈
 
@@ -73,6 +71,10 @@ Aseem Thakar 在 《The minimalist Entrepreneur》 读书总结 [The Minimalist 
 > Your company grows as quickly as your customers determine it will grow – the number of hours you work often is not correlated with business growth.
 
 除了 shl 提到要聚焦于一个产品，其他几位成功的独立开发者无疑都是做了很多的产品，找到成功的产品后才聚焦到成功的产品上。
+
+Tony Dinh 在 [Building multiple products as an indie hacker](https://tdinh.notion.site/Building-multiple-products-as-an-indie-hacker-e7abf0b1cfcb4550869767326795c628) 中也提到他的产品开发思路。虽然想法很多，但无疑要选择最有潜力获得付费用户的那一个。
+
+> I have a lot of product ideas that I would build for myself, but I only decided to build ones that have the potential to also get paying customers.
 
 Marc 在 [My first $1 online as as solopreneur](https://marclou.beehiiv.com/p/my-first-dollar-online) 中提到 Andrey 的建议：
 
