@@ -2,8 +2,8 @@
 title: "从止痛药类产品开始"
 date: 2024-01-28T22:29:20+08:00
 draft: false
-Summary: Marc Lou 获得了 Product Hunt 2024 年度创作者，触发我读完了 Marc Newsletter 中的所有文章内容，其中一些观点很受启发。产品属于止痛药还是维生素？一个极简的最小化产品有哪些功能就足够了？关于产品-市场契合，通过从市场反馈中就可以察觉到。
-Description:  Marc Lou 获得了 Product Hunt 2024 年度创作者，触发我读完了 Marc Newsletter 中的所有文章内容，其中一些观点很受启发。产品属于止痛药还是维生素？一个极简的最小化产品有哪些功能就足够了？关于产品-市场契合，通过从市场反馈中就可以察觉到。
+Summary: Marc Lou 获得了 Product Hunt 2023 年度创作者，触发我读完了 Marc Newsletter 中的所有文章内容，其中一些观点很受启发。产品属于止痛药还是维生素？一个极简的最小化产品有哪些功能就足够了？关于产品-市场契合，通过从市场反馈中就可以察觉到。
+Description:  Marc Lou 获得了 Product Hunt 2023 年度创作者，触发我读完了 Marc Newsletter 中的所有文章内容，其中一些观点很受启发。产品属于止痛药还是维生素？一个极简的最小化产品有哪些功能就足够了？关于产品-市场契合，通过从市场反馈中就可以察觉到。
 keywords: ["Marc","Product Hunt","Indie Hacker","minimal MVP","PainKiller","Vitamin","Product-Market Fit"]
 categories:
   - "每周总结"
@@ -17,7 +17,7 @@ image: "https://circle-journey.oss-cn-hangzhou.aliyuncs.com/799d75fa82474535f454
 
 ![Start with PainKiller Product](https://circle-journey.oss-cn-hangzhou.aliyuncs.com/799d75fa82474535f4541d11c058a38f.png)
 
-本周在推特上看到 Marc Lou 获得 Product Hunt 2024年度创作者，看完了 Marc Newsletter 中的所有文章内容，其中一些观点还是很受启发的。
+本周在推特上看到 Marc Lou 获得 Product Hunt 2023 年度创作者，看完了 Marc [Just Ship it](https://marclou.beehiiv.com/) 中的所有文章内容，其中一些观点还是很受启发的。
 
 ### 止痛药vs维生素
 
