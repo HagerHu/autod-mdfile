@@ -25,7 +25,7 @@ TTW，是 Travel the World 的首字母缩写，代表了环游世界🌍的梦�
 
 曾经在某个朋友的博客中看到过类似的效果，后来想再看却不记得在哪了，尝试了很多方法也没有找到。在网上也搜索寻找类似的方案，还有 WordPress 或者 HUGO 等，找了很久也没有类似的产品，或者不是想要的效果。我想既然在脑海中已经有了想要的样子，那么就自己做一个吧。
 
-![[CleanShot 2024-01-30 at 16.49.10@2x.png]]
+![TTW - Travel Memoir from Photos](https://circle-journey.oss-cn-hangzhou.aliyuncs.com/f76b3b55fe29cc62deb00f224ed14af0.png)
 
 现在，我完成了，还做了一个 [落地页](https://ttw.usistem.com/) 来介绍这个产品和页面。这个 DEMO 页面就是我想要的效果：上面是世界🗺️，显示旅行去过的地方；下面是照片🏞和城市的旅行时间线，记录旅行看过的世界。
 
@@ -43,7 +43,7 @@ TTW，是 Travel the World 的首字母缩写，代表了环游世界🌍的梦�
 - 支持选择居住城市，开启过滤后可以从时间线中过滤，只显示在外旅行的时间线；
 - 时间线支持编辑，可以重新选择喜欢的照片，也可以从时间线中删除指定的日期；
 
-![[CleanShot 2024-01-30 at 18.05.53@2x.png]]
+![CleanShot 2024-01-30 at 18.05.53@2x.png](https://circle-journey.oss-cn-hangzhou.aliyuncs.com/2042e38358bba3a3f212bd7c5177eb36.png)
 
 有了这个应用，现在需要做的就是：旅行回来，打开应用，等着分析完成，编辑，然后上传到云端。
 
