@@ -30,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://hagerhu.com/post/2024w13-almost-archieve-the-goal-of-sub130/</loc>
-    <lastmod>2024-04-01T17:14:20+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://hagerhu.com/tags/%E9%A9%AC%E6%8B%89%E6%9D%BE/</loc>
     <lastmod>2024-04-01T17:14:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -59,6 +52,13 @@
   
   <url>
     <loc>https://hagerhu.com/tags/%E5%85%A8%E9%A9%AC%E7%A0%B4%E4%B8%89/</loc>
+    <lastmod>2024-04-01T17:14:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hagerhu.com/post/2024w13-almost-archieve-the-goal-of-sub130/</loc>
     <lastmod>2024-04-01T17:14:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
