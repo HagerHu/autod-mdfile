@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>独立黑客 on 寒峰路</title>
+    <link>https://hagerhu.com/tags/%E7%8B%AC%E7%AB%8B%E9%BB%91%E5%AE%A2/</link>
+    <description>Recent content in 独立黑客 on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 04 Dec 2023 14:05:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/tags/%E7%8B%AC%E7%AB%8B%E9%BB%91%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重来三部曲，一次只做一件事</title>
+      <link>https://hagerhu.com/post/one-thing-at-a-time/</link>
+      <pubDate>Mon, 04 Dec 2023 14:05:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/one-thing-at-a-time/</guid>
+      <description>关于 37 Signals 的《重来》内容偶尔会出现在我的视线中，又一次看到后就用睡前时间读完了第3本《跳出疯狂的忙碌》，紧接着又把之前的两本重温了一遍。一次做一件事的意思是一次投入好几个小时（甚至更多）来做一件大事，是这次重读过程最大的收获。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tyme on 寒峰路</title>
+    <link>https://hagerhu.com/tags/tyme/</link>
+    <description>Recent content in Tyme on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Feb 2023 11:52:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/tags/tyme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Tyme 记录和跟踪时间</title>
+      <link>https://hagerhu.com/post/use-tyme-to-record-and-track-time/</link>
+      <pubDate>Wed, 22 Feb 2023 11:52:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/use-tyme-to-record-and-track-time/</guid>
+      <description>对我们每个人来说，最宝贵的资源是时间，其次还有现金、经验和教育。从开始使用 Tyme 记录和跟踪时间，到 2023 年已经是第六个年头。也正是在记录和跟踪时间之后，才知道时间都去了哪儿。有了数据和统计，也可以回顾那些做得好的、不好的，吸取教训总结经验，以后可以做得更好。</description>
+    </item>
+    
+    <item>
+      <title>使用 Tyme 做时间管理</title>
+      <link>https://hagerhu.com/post/use-tyme-to-manage-time/</link>
+      <pubDate>Thu, 02 Feb 2023 11:52:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/use-tyme-to-manage-time/</guid>
+      <description>使用 Tyme 2 记录和跟踪时间已经第六个年头。 在这里记录一下自己的实践经验，希望对想进行时间管理的你有所启发和帮助。 使用历程 先放上从2018年到20</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Apple WWDC 2023 - 寒峰路</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="Hager Hu" /><meta name="description" content="2023.06.06，开始了苹果开发者的狂欢 WWDC 2023。WWDC 带来了新的 15 寸 MacBook Air，操作系统新版的变化和特性，还有 One more thing：Apple Vision Pro，搭配了全新的 visionOS 操作系统。除了 Vision Pro，iOS 17 全新的原生应用 Journal 也引起了我的关注。" /><meta name="keywords" content="WWDC 2023, Vision Pro, iOS Journal, 集合, Day One, 杭州小客车限牌, 杭州小客车摇号, CloudKit" />
+
+
+<meta name="twitter:image:alt" content="article share image" />
+<meta name="twitter:image" content="https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/CleanShot%202023-06-11%20at%2016.39.15@2x.png" />
+<meta property="og:site_name" content="集合 - 构建你的个人系统" />
+<meta property="og:title" content="Apple WWDC 2023 - 寒峰路" />
+<meta property="og:image" content="https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/CleanShot%202023-06-11%20at%2016.39.15@2x.png" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.107.0 with theme even" />
+
+
+<link rel="canonical" href="https://hagerhu.com" />
+  <link href="https://hagerhu.com/rss.xml" rel="alternate" type="application/rss+xml" title="寒峰路" />
+  <link href="https://hagerhu.com/index.xml" rel="feed" type="application/rss+xml" title="寒峰路" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<link href="/sass/main.min.315eee3f2f3631ef742c3d8725a2ea1c9289e60047770f6f467be7c5cbd8a965.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="Apple WWDC 2023" />
+<meta property="og:description" content="2023.06.06，开始了苹果开发者的狂欢 WWDC 2023。WWDC 带来了新的 15 寸 MacBook Air，操作系统新版的变化和特性，还有 One more thing：Apple Vision Pro，搭配了全新的 visionOS 操作系统。除了 Vision Pro，iOS 17 全新的原生应用 Journal 也引起了我的关注。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hagerhu.com/post/2023w24-apple-wwdc-2023/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-06-11T22:51:20+08:00" />
+<meta property="article:modified_time" content="2023-06-11T22:51:20+08:00" />
+
+<meta itemprop="name" content="Apple WWDC 2023">
+<meta itemprop="description" content="2023.06.06，开始了苹果开发者的狂欢 WWDC 2023。WWDC 带来了新的 15 寸 MacBook Air，操作系统新版的变化和特性，还有 One more thing：Apple Vision Pro，搭配了全新的 visionOS 操作系统。除了 Vision Pro，iOS 17 全新的原生应用 Journal 也引起了我的关注。"><meta itemprop="datePublished" content="2023-06-11T22:51:20+08:00" />
+<meta itemprop="dateModified" content="2023-06-11T22:51:20+08:00" />
+<meta itemprop="wordCount" content="2259">
+<meta itemprop="keywords" content="反思总结," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Apple WWDC 2023"/>
+<meta name="twitter:description" content="2023.06.06，开始了苹果开发者的狂欢 WWDC 2023。WWDC 带来了新的 15 寸 MacBook Air，操作系统新版的变化和特性，还有 One more thing：Apple Vision Pro，搭配了全新的 visionOS 操作系统。除了 Vision Pro，iOS 17 全新的原生应用 Journal 也引起了我的关注。"/>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5NJYSPFPQL"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-5NJYSPFPQL', { 'anonymize_ip': true });
+}
+</script>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">寒峰路</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">首页</li>
+      </a><a href="https://ttw.usistem.com/journey/a9603b5d43cb218d1999832e8bc7e361">
+        <li class="mobile-menu-item">旅行</li>
+      </a><a href="https://usistem.com/zh/the-bay-area/">
+        <li class="mobile-menu-item">湾区</li>
+      </a><a href="https://hagerhu.com/post/circle-build-your-own-system/">
+        <li class="mobile-menu-item">作品</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">归档</li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">分类</li>
+      </a><a href="/post/about-me/">
+        <li class="mobile-menu-item">关于</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">寒峰路</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://ttw.usistem.com/journey/a9603b5d43cb218d1999832e8bc7e361">旅行</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://usistem.com/zh/the-bay-area/">湾区</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://hagerhu.com/post/circle-build-your-own-system/">作品</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">归档</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">分类</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/about-me/">关于</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Apple WWDC 2023</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2023-06-11 </span>
+        <div class="post-category">
+            <a href="/categories/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"> 每周总结 </a>
+            </div>
+          <span class="more-meta"> 约 2259 字 </span>
+          <span class="more-meta"> 预计阅读 5 分钟 </span>
+        <span id="busuanzi_container_page_pv" class="more-meta"> <span id="busuanzi_value_page_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次阅读 </span>
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#apple-wwdc-2023">Apple WWDC 2023</a></li>
+            <li><a href="#集合模块的方案纠结">集合模块的方案纠结</a></li>
+            <li><a href="#区域牌照换成了浙-a">区域牌照换成了浙 A</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</div>
+    <div class="post-content">
+      <h3 id="apple-wwdc-2023">Apple WWDC 2023</h3>
+<p>2023.06.06 苹果开始了 WWDC 2023 全球开发者大会，大会带来了新的 15 寸 MacBook Air，介绍了新版系统的各种变化和特性。与往年不同的是，今年最后还有 One more thing, Apple Vision Pro，搭配了全新的 visionOS 操作系统。</p>
+<p>MacBook Air 有了 15 寸，满足了轻薄的同时还想要大屏幕的那部分用户。MacBook Air 也从最早在油纸信封中抽出来的轻薄发生了变化，屏幕大小不再是区分 MacBook Air 和 MacBook Pro 的标准。在我看来，如果是轻度文字工作者，想要续航就选 MacBook Air；如果是专业电脑工作者，想要性能就选 MacBook Pro。</p>
+<p>WWDC 30 分钟开始介绍了 iOS 17 的新体验，新的原生应用 Journal，a new way to reflect on and relive special moments。Photos 中现有的 For You: Memories 可以帮我们总结回忆，Journal 想要做的更多，想要我们写下来，记录这些瞬间和体验。</p>
+<p>Journal 很容易让人想起 Day One，通过时间线记录一天的生活。Journal 有 Time to write 提醒，提醒用户开始记录。记录的时候，会通过 Suggestions  API 提示用户这一天发生了什么，比如拍的照片，去的地方，听的播客，体能训练等，所有这些甚至能记录到一条笔记中。</p>
+<p><img src="https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/CleanShot%202023-06-11%20at%2016.39.15@2x.png" alt="Journal in iOS17"></p>
+<p>在做集合模块的过程中，我也有一个类似的想法，通过系统应用可以展示用户的时间线，现在也只是停留在想法层面。这次 WWDC 的 Journal 让我有点兴奋，似乎找到了一些我这个想法的影子。</p>
+<p><img src="https://circle-picgo.oss-cn-shanghai.aliyuncs.com/img/CleanShot%202023-06-11%20at%2016.08.40@2x.png" alt="My Journal Idea with iPhone"></p>
+<p>使用苹果设备和生态越久，越会发现系统原生应用的各种好，用日历安排日程，照片记录生活，备忘录做笔记，给生活设置提醒。如果我们经常使用日历，那么通过日历可以知道我们的时间都去哪了；如果拍照的时候打开定位，那么照片就可以知道我们去过哪儿；如果我们按照时间在备忘录记录一天的所思所想所做，就知道我们那一天有什么想法，发生了哪些有趣的事情；如果你还有 Apple Watch， 那么还可以看到体能训练，睡眠分析，所有这些组成了我们真实的生活。</p>
+<p>这次的集合模块主要功能已经做的差不多了，也到了开始我自己新的 Journal 的时候了。</p>
+<h3 id="集合模块的方案纠结">集合模块的方案纠结</h3>
+<p>在集合应用中，集合模块用于记录，记录生活的点滴，开心的，难忘的，伤心的事，通过时间线留下现在美好的瞬间。集合应用的 sologan 是「没有记录就没有发生，没有量化则无法优化」。集合模块就是记录，已有的统计模块则是量化。</p>
+<p>考虑到 UI 的灵活性，想到用 H5 页面来实现，这样可以动态更新快速迭代。奈何我客户端开发工程师出身，经验上肯定是端上开发多一点，开发 H5 遇到不顺就会想到用 Native 方案。开发过程中我就想犯了毛病一样，不断的纠结和切换方案。这本应该是开发前就要定好的，我就是在开发过程中不断地反复，浪费了不少时间。</p>
+<p>整个集合的记录是存储在 CloudKit 可以多设备同步，涉及到图片的方案则在不断变化。一开始使用 PHAsset 显示图片，但是照片中删除后就无法显示了，于是改为缓存到 App Document 目录；但卸载 App 后这些缓存的照片文件也就删除了，重新安装后也就无法显示；又将图片通过 CKAsset 存储到 CloudKit 中，带来新的问题是会占用 iCloud 空间。图片相比文字来说占用的空间也要大的多，记录多了很快会到 5GB 容量的限制。看来最佳方案要么是 iCloud 增加容量，要么就是图片上传到后端 OSS 使用网络图片。</p>
+<p>相对于前几周，这周在开发上的时间投入明显多了些。开始用 CKQuery 一次性得到所有数据，前端页面用来展示和交互，数量多想到前端页面做图片懒加载来避免占用过多内存，图片懒加载带来了显示问题；后来迁移到 CKQueryOperation 限制记录返回数量分页加载，分页之后懒加载的优势不再明显，索性就先放弃了。使用 CloudKit 仍然有一个问题，就是无法查询记录的总数或者匹配条件的结果数量，目前能想到的方案是自己维护数量信息，和记录的增删改查操作同步，这个暂时留到后面再来做。</p>
+<p>为了提高页面体验，WKWebView 实现了端上离线包逻辑来提高打开速度，将前端资源预置到 App 中，在有更新的时候也可以提前下载到 App 上。这样，无论是新用户体验，还是新功能集合，新版本都有了一些变化，就看看接下来会发生什么。</p>
+<h3 id="区域牌照换成了浙-a">区域牌照换成了浙 A</h3>
+<p>2014 年 3 月，杭州开始实行小客车总量调控政策，即“限牌政策”。在公司知道政策的当天晚上，有同事为了上浙A牌照去 4S 店买车缴定金，当时的我觉得没有强烈的用车需求，也就没有跟风。据同事回忆，当天晚上 4S 店全是人，大家都争着缴钱抢车厂里的车架号，就为能赶在限牌前拿到一个浙A牌照。</p>
+<p>没有跟风的后果就是没有浙A，只能上外地牌照，后来杭州买车上牌最多的是上海沪C。摇号之后，我第一时间就报名了摇号，想着什么时候摇到就什么时候买车。除了摇号还可以竞价，开始的时候从没想过去竞价，觉得花钱买车牌还不如干点别的。</p>
+<p>向来对于抽奖这样需要依靠运气的事，我是有清晰自我认知的，就是都不会中。摇号也不例外，从 2014 年开始到现在 2023 年，已经过去了 9 年，9年了我依然没有摇到一个浙A牌照。竞价也从开始的 1W 涨到 5W，有过回落但也要 3W 左右。</p>
+<p>时间来到 2021 年，新冠疫情开始，当时有人捡漏 1W 多竞价成功。之后便是封控在湖北远程办公的日子，然后习惯了戴口罩又开始排队做核酸。2021 对于经济是个分水岭，对于小客车竞价也是。</p>
+<p>2023 年也许经济下滑到确实需要靠房产和汽车来促进消费，3 月收到了小客车专项指标的短信，严格来讲这也不是摇中的，这个指标是专门给我这种久摇不中的人准备的。政策就是这样，从来都是政府调控经济的工具，只是我们不是那些制定政策的人。</p>
+<p>3 月收到指标，接着收到友情提醒的消息，牌照申请和制作工作量激增，需要耐心等待，我依然选择了没有跟风。就这样从 3 月拖到 6 月，才在去洗车的同时填完了申请资料，然后等着审核通过。通过之后的流程就是选号缴费，等牌照快递上门。</p>
+<p>快递也比我预期的时间快了一些，7 号晚上完成选号，10 号收到新牌照。换上新牌照，结束了以前上班只能9点以后，去医院过了4点不敢开回去的日子，🎉 从现在开始除了周一咱也可以畅行无阻了。</p>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">Hager Hu</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2023-06-11
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/%E5%8F%8D%E6%80%9D%E6%80%BB%E7%BB%93/">反思总结</a>
+          </div><script
+        src="https://giscus.app/client.js"
+        data-repo="HagerHu/blog-comments"
+        data-repo-id="R_kgDOJk2MlA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJk2MlM4CWl0N"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+      </script>
+
+      
+      <nav class="post-nav">
+        <a class="prev" href="/post/half-year-update-since-quit-ali/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">从阿里退隐江湖的这半年</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/post/buffer-analyze-product-and-lean-startup/">
+            <span class="next-text nav-default">梦想远大，行动务实，打造最小可爱产品之路</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="https://twitter.com/hagerhu" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="https://github.com/hagerhu" class="iconfont icon-github" title="github"></a>
+  <a href="https://hagerhu.com/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  <div class="busuanzi-footer">
+    <span id="busuanzi_container_site_pv"> 本站总访问量 <span id="busuanzi_value_site_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次 </span>
+      <span class="division">|</span>
+    <span id="busuanzi_container_site_uv"> 本站总访客数 <span id="busuanzi_value_site_uv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 人 </span>
+  </div>
+
+  <span class="copyright-year">
+    &copy; 
+    2022 - 
+    2024<span class="heart"><i class="iconfont icon-heart"></i></span><span>Hager Hu</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.4ae89da218555efa0e7093a20b92017d2e1202b66fff9fc2edf4cb8d44b44c6e.js"></script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-5NJYSPFPQL', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>走向独立 on 寒峰路</title>
+    <link>https://hagerhu.com/categories/%E8%B5%B0%E5%90%91%E7%8B%AC%E7%AB%8B/</link>
+    <description>Recent content in 走向独立 on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 06 Jun 2023 15:24:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/categories/%E8%B5%B0%E5%90%91%E7%8B%AC%E7%AB%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>梦想远大，行动务实，打造最小可爱产品之路</title>
+      <link>https://hagerhu.com/post/buffer-analyze-product-and-lean-startup/</link>
+      <pubDate>Tue, 06 Jun 2023 15:24:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/buffer-analyze-product-and-lean-startup/</guid>
+      <description>Tom Redman 和他的团队在 Buffer 内建立的社交分析解决方案 Buffer Analyze，并且很幸运地发现了产品/市场契合的早期迹象。这篇文章可以看做精益创业在 Buffer Analyze 实践，如何在限制条件下工作，如何确定新产品特性的范围，以及如何为客户构建和发布价值。</description>
+    </item>
+    
+    <item>
+      <title>我是如何将我的副业项目打造成月收入2万美元的生意的</title>
+      <link>https://hagerhu.com/post/indie-start-how-i-bootstraped-my-side-project-into-a-20k-mrr-lifestyle-business/</link>
+      <pubDate>Sat, 11 Mar 2023 15:00:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/indie-start-how-i-bootstraped-my-side-project-into-a-20k-mrr-lifestyle-business/</guid>
+      <description>750 Words是我在2009年一时兴起建立的网站，现在仍然很受欢迎。它将迎来成立10周年！这个网站允许您练习私人日志的日常习惯。您写的文字会被保存和锁定，只有您能看到，因此您可以写下真正在您脑海中的想法，而不必担心它被公开。它基本上是Julia Cameron的《艺术家的方式》中所学到的晨间页面的数字版本。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>环游世界 on 寒峰路</title>
+    <link>https://hagerhu.com/tags/%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C/</link>
+    <description>Recent content in 环游世界 on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Jan 2024 20:47:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/tags/%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>创建你的旅行页面</title>
+      <link>https://hagerhu.com/post/intro-ttw-travel-memoir-from-photos/</link>
+      <pubDate>Tue, 30 Jan 2024 20:47:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/intro-ttw-travel-memoir-from-photos/</guid>
+      <description>每个人都有一个环游世界的梦想，我也不例外。除了环游世界，我还想有一个记录自己旅行经历的页面，它应该有一个照片和城市组成的时间线，一个标注我去过地方的世界地图，最好再加上关于旅行的数据统计。找了很久没找到合适的方案，于是，我给自己做了一个，可以自动从照片图库中生成你的旅行页面。</description>
+    </item>
+    
+    <item>
+      <title>开始落地页后想到的</title>
+      <link>https://hagerhu.com/post/think-from-starting-landing-page/</link>
+      <pubDate>Mon, 18 Dec 2023 14:02:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/think-from-starting-landing-page/</guid>
+      <description>每个人都有一个环游世界的梦想，我也不例外，我想把自己所有的旅行记忆做成一个旅行页面，记录去过的地方，看过的世界，于是有了 TTW。TTW 是 Travel the World 的首字母缩写，可以利用手机上的照片图库生成自己的旅行记忆。这篇文章主要记录了开始 TTW 落地页之后想到的，包括如何看待和设计师合作，理解「先开始，再学习」和什么是 Mobile First。</description>
+    </item>
+    
+  </channel>
+</rss>

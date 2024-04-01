@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hagerhu.com/sitemap.xml

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantified Self on 寒峰路</title>
+    <link>https://hagerhu.com/tags/quantified-self/</link>
+    <description>Recent content in Quantified Self on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 20 Nov 2022 20:52:33 +0800</lastBuildDate><atom:link href="https://hagerhu.com/tags/quantified-self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于量化自我</title>
+      <link>https://hagerhu.com/post/about-quantified-self/</link>
+      <pubDate>Sun, 20 Nov 2022 20:52:33 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/about-quantified-self/</guid>
+      <description>量化自我，由英文 ”Quantified Self&amp;quot; 直译而来。量化自我（Quantified Self）这个名词，最早是在2007年，由《Wired》杂志</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>番茄钟 on 寒峰路</title>
+    <link>https://hagerhu.com/tags/%E7%95%AA%E8%8C%84%E9%92%9F/</link>
+    <description>Recent content in 番茄钟 on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Feb 2023 11:52:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/tags/%E7%95%AA%E8%8C%84%E9%92%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Tyme 做时间管理</title>
+      <link>https://hagerhu.com/post/use-tyme-to-manage-time/</link>
+      <pubDate>Thu, 02 Feb 2023 11:52:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/use-tyme-to-manage-time/</guid>
+      <description>使用 Tyme 2 记录和跟踪时间已经第六个年头。 在这里记录一下自己的实践经验，希望对想进行时间管理的你有所启发和帮助。 使用历程 先放上从2018年到20</description>
+    </item>
+    
+  </channel>
+</rss>

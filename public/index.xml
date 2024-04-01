@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>寒峰路</title>
+    <link>https://hagerhu.com/</link>
+    <description>Recent content on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Jan 2024 20:47:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>创建你的旅行页面</title>
+      <link>https://hagerhu.com/post/intro-ttw-travel-memoir-from-photos/</link>
+      <pubDate>Tue, 30 Jan 2024 20:47:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/intro-ttw-travel-memoir-from-photos/</guid>
+      <description>&lt;p&gt;TTW，是 Travel the World 的首字母缩写，代表了环游世界🌍的梦想。&lt;/p&gt;
+&lt;h2 id=&#34;缘起一个旅行页面&#34;&gt;缘起一个旅行页面&lt;/h2&gt;
+&lt;p&gt;每个人都有一个环游世界的梦想，我也不例外。&lt;/p&gt;
+&lt;p&gt;除了环游世界，我还想有一个记录自己旅行经历的页面，它应该有一个照片和城市组成的时间线，一个标注我去过地方的世界地图，最好再加上关于旅行的数据统计。&lt;/p&gt;
+&lt;p&gt;曾经在某个朋友的博客中看到过类似的效果，后来想再看却不记得在哪了，尝试了很多方法也没有找到。在网上也搜索寻找类似的方案，还有 WordPress 或者 HUGO 等，找了很久也没有类似的产品，或者不是想要的效果。我想既然在脑海中已经有了想要的样子，那么就自己做一个吧。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-journey.oss-cn-hangzhou.aliyuncs.com/f76b3b55fe29cc62deb00f224ed14af0.png&#34; alt=&#34;TTW - Travel Memoir from Photos&#34;&gt;&lt;/p&gt;
+&lt;p&gt;现在，我完成了，还做了一个 &lt;a href=&#34;https://ttw.usistem.com/&#34;&gt;落地页&lt;/a&gt; 来介绍这个产品和页面。这个 DEMO 页面就是我想要的效果：上面是世界🗺️，显示旅行去过的地方；下面是照片🏞和城市的旅行时间线，记录旅行看过的世界。&lt;/p&gt;
+&lt;h2 id=&#34;让整理照片更容易&#34;&gt;让整理照片更容易&lt;/h2&gt;
+&lt;p&gt;做这样的旅行页面，很容易想到整理照片太费时间和精力了。很多时候会因为太麻烦而放弃。🤔我想应该有更简单的方式可以做到！&lt;/p&gt;
+&lt;p&gt;虽然家里有个佳能70D相机，但已经束之高阁很久了，外出也因为觉得太重不愿意随身带着了。我外出旅行基本都是手机拍照，看到想拍的风景就拿出手机拍下来；而且我给相机📷应用开启了位置权限，这样每次拍下的照片就会有当时拍照的位置数据。手机中的照片记录了旅行时看到的风景和去过的地方，那么通过读取和分析手机中的照片，就可以自动生成上面的旅行页面，这样就可以节省时间和精力。&lt;/p&gt;
+&lt;p&gt;于是，有了 &lt;a href=&#34;https://apps.apple.com/us/app/ttw-travel-memoir-from-photos/id6473322389&#34;&gt;TTW: Travel Memoir from Photos&lt;/a&gt; 这个应用，它可以：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;访问照片图库，自动分析最新的照片和位置数据，基于日期和城市生成时间线；&lt;/li&gt;
+&lt;li&gt;在地图🗺️上显示去过的国家，也可以显示拍照（去过）的地方，显示我的旅行足迹；&lt;/li&gt;
+&lt;li&gt;统计和分析我的旅行数据，去过的国家（国旗），多少个城市，在外旅行有多少天；&lt;/li&gt;
+&lt;li&gt;支持选择居住城市，开启过滤后可以从时间线中过滤，只显示在外旅行的时间线；&lt;/li&gt;
+&lt;li&gt;时间线支持编辑，可以重新选择喜欢的照片，也可以从时间线中删除指定的日期；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-journey.oss-cn-hangzhou.aliyuncs.com/2042e38358bba3a3f212bd7c5177eb36.png&#34; alt=&#34;CleanShot 2024-01-30 at 18.05.53@2x.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;有了这个应用，现在需要做的就是：旅行回来，打开应用，等着分析完成，编辑，然后上传到云端。&lt;/p&gt;
+&lt;p&gt;我的博客 &lt;a href=&#34;https://hagerhu.com/&#34;&gt;寒峰路&lt;/a&gt; 已经集成了我的 &lt;a href=&#34;https://ttw.usistem.com/journey/a9603b5d43cb218d1999832e8bc7e361&#34;&gt;旅行&lt;/a&gt; 页面，可以点击查看。&lt;/p&gt;
+&lt;p&gt;如果你也喜欢旅行，也想拥有自己的旅行页面，欢迎使用和体验，也欢迎任何建议。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>从止痛药类产品开始</title>
+      <link>https://hagerhu.com/post/2024w04-start-with-painkiller-product/</link>
+      <pubDate>Sun, 28 Jan 2024 22:29:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/2024w04-start-with-painkiller-product/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://circle-journey.oss-cn-hangzhou.aliyuncs.com/799d75fa82474535f4541d11c058a38f.png&#34; alt=&#34;Start with PainKiller Product&#34;&gt;&lt;/p&gt;
+&lt;p&gt;本周在推特上看到 Marc Lou 获得 Product Hunt 2023 年度创作者，看完了 Marc &lt;a href=&#34;https://marclou.beehiiv.com/&#34;&gt;Just Ship it&lt;/a&gt; 中的所有文章内容，其中一些观点还是很受启发的。&lt;/p&gt;
+&lt;h3 id=&#34;止痛药vs维生素&#34;&gt;止痛药vs维生素&lt;/h3&gt;
+&lt;p&gt;如果你没有大量的受众，就不要去做 Note-taking 类的产品。&lt;/p&gt;
+&lt;p&gt;Marc 曾经做个 Habit Garden 产品，还上线了 App Store，但用户付费率很低，1.5年10w用户最终赚了也不过6000美元；后来开发的 Ship Fast 产品同样用户赚了却远比 10w 美元不止。Habit Garden 后来已经被卖掉了，但 Ship Fast 是作者现在收入的主要来源。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;100,000 visitors on my nice-to-have product website made $6,000.&lt;br&gt;
+100,000 visitors on my must-have product website made $100,000.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;止痛药就是 Marc 提到的 Must-Have 产品，因为头痛的用户会来寻找，有效果就会愿意付费购买；Note-Taking 类属于 Nice-Have 产品，没有这类产品用户也不会感觉不舒服，属于有了会更好的那种，用户的付费意愿自然也就不强。&lt;/p&gt;
+&lt;p&gt;对于独立开发来说，特别是极简主义创业者来说，动用一切力量来盈利的关键就是创造什么样的产品，目标用户的付费意愿有多强烈？优先考虑止痛药 Must-Have 类型的产品，而不是维生素 Nick-Have 类型的产品，无疑提供了一个很好的思路。&lt;/p&gt;
+&lt;p&gt;或者即使产品属于 Nice-Have，而不是 Must-Have，也可以换个角度来增加用户的需求。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Turn vitamins into painkillers by explaining why your product is a must-have: Track your habits → Diet habit you won’t quit&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;极简最小化产品&#34;&gt;极简最小化产品&lt;/h3&gt;
+&lt;p&gt;看过不少关于最小化可行产品的论述，但从没想过一个最小化产品能最小到哪种程度。&lt;/p&gt;
+&lt;p&gt;Marc 在 &lt;a href=&#34;https://marclou.beehiiv.com/p/how-to-build-a-startup-in-24-hours&#34;&gt;Minimum MVP: Build your startup in 24 hours&lt;/a&gt; 中提到 极简最小化产品 有3个部分就已经足够了，分别是一个标题、一个购买按钮和一个产品功能。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What’s enough for a minimal MVP?&lt;/p&gt;
+&lt;p&gt;A headline, a buy button, and 1 feature.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Your headline is the most important.&lt;/strong&gt; It’s like the thumbnail of a YouTube video: people will decide to invest their precious time on your site based on that sentence.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You can only validate an idea if people pay for it&lt;/strong&gt;. A waitlist isn’t enough. Your minimal MVP should have a buy button.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Finally, the feature should solve the most painful customer’s problem.&lt;/strong&gt; If that feature requires smaller features, it’s OK. But don’t overthink it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;购买按钮可能是三者中最重要的，从用户是否愿意购买可以确认产品是否继续投入。Tony Dinh 曾开发了一个可以利用 AI 随意变更声音的应用，在推特上点赞的用户很多，但在产品中加入购买按钮后却没有得到一个付费用户，最后也就没有继续这个产品。Marc 甚至提到很多成功的创业者都只提供付费产品，根本没有免费使用的方案。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Most of your efforts have 0 financial outcome—that’s entrepreneurship.&lt;/strong&gt; Spending months on a startup that will get 5 users and $100 in revenue is a recipe for burnout (I was there in 2021). Shipping minimal MVP in weeks is an alternative for mental well-being and financial success.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;既然时间是最重要的资产，那么就要选择高效的方式开发创造更有可能成功的产品。&lt;/p&gt;
+&lt;h3 id=&#34;产品的市场反馈&#34;&gt;产品的市场反馈&lt;/h3&gt;
+&lt;p&gt;有了产品，接下来就要寻找用户，检验产品是否为用户想要的，用户是否愿意为之付费？很多时候，是用户决定了产品是否增长，并且很容易通过产品反馈来察觉到。&lt;/p&gt;
+&lt;p&gt;Marc 在 &lt;a href=&#34;https://marclou.beehiiv.com/p/my-solopreneur-story-0-to-65k-month-in-2-years&#34;&gt;My solopreneur story: $0 to $65,000/month in 2 years&lt;/a&gt; 提到 产品-市场 契合：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It’s hard to describe product market fit, but when it hits, it’s clear.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aseem Thakar 在 《The minimalist Entrepreneur》 读书总结 &lt;a href=&#34;https://aseemthakar.com/the-minimalist-entrepreneur-sahil-lavingia-book-summary-notes-review/&#34;&gt;The Minimalist Entrepreneur&lt;/a&gt; 中摘抄了类似的描述。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The world will tell you to go big or go home, but I say go small at the beginning.&lt;/p&gt;
+&lt;p&gt;Your company grows as quickly as your customers determine it will grow – the number of hours you work often is not correlated with business growth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;除了 shl 提到要聚焦于一个产品，其他几位成功的独立开发者无疑都是做了很多的产品，找到成功的产品后才聚焦到成功的产品上。&lt;/p&gt;
+&lt;p&gt;Tony Dinh 在 &lt;a href=&#34;https://tdinh.notion.site/Building-multiple-products-as-an-indie-hacker-e7abf0b1cfcb4550869767326795c628&#34;&gt;Building multiple products as an indie hacker&lt;/a&gt; 中也提到他的产品开发思路。虽然想法很多，但无疑要选择最有潜力获得付费用户的那一个。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have a lot of product ideas that I would build for myself, but I only decided to build ones that have the potential to also get paying customers.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Marc 在 &lt;a href=&#34;https://marclou.beehiiv.com/p/my-first-dollar-online&#34;&gt;My first $1 online as as solopreneur&lt;/a&gt; 中提到 Andrey 的建议：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why don’t you sell it before you make it?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;是的，我们甚至都不需要构建产品，没有产品的情况下也可以先销售，直到销售的好再去开发产品。再返回去，这一切的关键是要有一个好的产品，有一个用户想要，愿意付费的止痛药类产品。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>距离目标只差一点点</title>
+      <link>https://hagerhu.com/post/2024w13-almost-archieve-the-goal-of-sub130/</link>
+      <pubDate>Sun, 28 Jan 2024 22:29:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/2024w13-almost-archieve-the-goal-of-sub130/</guid>
+      <description>&lt;h3 id=&#34;从半马跑进130的小目标说起&#34;&gt;从半马跑进130的小目标说起&lt;/h3&gt;
+&lt;p&gt;从高三开始，直到大学毕业后的几年，我都是通过足球来保持运动，水平不算好，更多是想着能通过运动保持健康。那个时候，我是不理解跑步的，总觉得跑步是一件枯燥乏味的事情。所以，从没想过有一天会去认真跑步，还记得大学期间的一次学校运动会比赛，忘记了是5公里还是10公里，跑到后面都想放弃，好在最后坚持完赛。&lt;/p&gt;
+&lt;p&gt;足球终究是属于一个团队的运动，不是一个人说开始就能开始，大部分活动要么晚上，要么周末。一个人的时候还好，时间自由，等结婚有了孩子，慢慢有点不好意思自己去踢球，把孩子留给家人照顾，慢慢淡出了足球。有几年确实中断了运动，就这样直到2018年看过耐克创始人菲儿·奈特的自传《鞋狗》开始认真跑步，开始属于一个人的运动。&lt;/p&gt;
+&lt;p&gt;2018年之前也偶尔会跑步，断断续续，曾经用 RunKeeper 记录过一段时间，也会骑单车上下班，但最终都没有了下文。2018年开始前面也是三天打鱼，两天晒网，好在没放弃，一路磕磕绊绊也坚持到了现在。开始跑步之后才知道有马拉松比赛这会事，也才想到去体验，知道报名才发现比赛不是想跑就能跑。国内人多的特点在哪都适用，赛事因此只能靠抽签来取得参赛资格，热门城市的赛事就更不用提了。跑过几年之后，也想去参加有影响力的赛事，但这么多年的生活经验告诉我，运气往往不站在我这一边，于是就想到了成绩直通这条路。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/city-marathon-pass-requirement.png&#34; alt=&#34;ciry marathon pass requirement&#34;&gt;&lt;/p&gt;
+&lt;p&gt;找了几个支持成绩直通的赛事，看过直通标准，觉得半马比全马对我来说更有可行性，于是半马跑个直通成绩也就成为了我的目标，慢慢变成了更具体的130。比如，2024年厦门马拉松的成绩直通区别年龄段，跑进130就可以直通；2024年无锡马拉松就，则不区分年龄段，只要半马在130以内就可以直通。&lt;/p&gt;
+&lt;p&gt;2023年3月份的两场比赛，无锡和梦马，半马分别跑到了 01:34:47 和 01:32:14，就有了下半年挑战130的想法，只是12.10的诸暨西施半马开始跑的太欢，结果不是PB，而是跑崩了。就这样，带者跑进130的目标来到了2024年&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;为了跑进130做了哪些努力&#34;&gt;为了跑进130，做了哪些努力&lt;/h3&gt;
+&lt;p&gt;在有130目标以前，平时都是慢跑为主，周末会刻意跑的距离长一点，10公里多点，也仅此而已。随着跑步时间的增加，累计跑量也在慢慢变多。2021年有了每年多跑一公里的想法，直到2023年才第一次完成这个年度跑量目标，超过2023公里。跑量增加的过程，慢慢养成了固定的跑步的习惯，从一周跑个3-5次实际可能跑不到3次，现在每周固定跑五休二，出现意外的情况已经越来越少。&lt;/p&gt;
+&lt;p&gt;有了130的目标后，心里不由重视起来，首先想到的就是提高配速，一番读书和研究，发现间歇跑是提高配速的最好方法。于是，想到去体育场跑间歇，黄龙体育场早上7点开门太晚，拱墅体育场5点半开门刚好，于是2023年7月有了体育场的第一次间歇，10月开始每周二去体育场跑间歇，除了下雨从未间断。刚开始跑间歇都不知道怎么用手表记录，现在跑800米已经可以跑进3分三十几，身体和数据都很诚实地告诉我我在进步。任何事情都是这样，想要提高就需要时间来浇灌，去学习和练习，也是偶然的机会才知道800米间歇，还有个更专业的叫法是「亚索800」。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/running-threshhold-once-a-week.png&#34; alt=&#34;threashold running once a week&#34;&gt;&lt;/p&gt;
+&lt;p&gt;跑间歇也是在不断的学习，最开始只会跑400米或者800米，后来知道了大神或者训练营他们都是在跑课表。课表会更加注重训练周期，先确定自己比赛的日期和目标，然后倒推。每个周期训练的侧重点有所不同，比如有氧基础，提高配速等。慢慢地，我也从当初的小白，开始在跑步和思考中学到很多，有了不一样的感悟。&lt;/p&gt;
+&lt;p&gt;2024.01.07 在厦门马拉松（运气爆棚，候补中签）赛后遇见了稳稳破三的深圳跑友 @Michael 飞翔，破三的种子在心里也开始破土发芽。几天的时间，一起交流一起逛厦门，也好好学习一下破三的经验，跑友去年的跑量不到2000公里，打消了我跑全马2前公里跑量不足的疑虑；平时主要做核心力量训练外加一点短距离，周末会重点拉长距离甚至全马；强调了核心力量训练的重要性，也建议我试试法特莱克跑法。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/running-core-training-way.png&#34; alt=&#34;running core training&#34;&gt;&lt;/p&gt;
+&lt;p&gt;从厦门回来，开始搜索核心力量训练的方式，然后开始做核心力量训练。我的核心力量训练主要是平板支撑，侧卧屈膝抬腿等动作，不同动作穿插进行，整个下来不到30分钟。最开始平板支撑坚持不了1分钟，现在完成5组不在话下，在尝试下一组比前一组时间更长一点。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/history-of-core-training-and-time.png&#34; alt=&#34;history of core training&#34;&gt;&lt;/p&gt;
+&lt;p&gt;总结一下，为了跑进130，在原来跑五休二的基础上，&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每周一次体育场间歇跑，随着赛事日期临近，从400米到800米，过渡到 2K，4K，8K；&lt;/li&gt;
+&lt;li&gt;厦门马拉松比赛后增加核心力量训练，每周至少2次，平板支撑，仰卧挺髋，侧卧屈膝抬腿等；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;从跑进130的训练中学到什么&#34;&gt;从跑进130的训练中学到什么&lt;/h3&gt;
+&lt;p&gt;从2023.03.26杭州梦想小镇半马后有了130的小目标，到今天刚好一年。现在我给自己安排的训练是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周一：跑休，单车骑行，核心力量训练；&lt;/li&gt;
+&lt;li&gt;周二：拱墅区体育场间歇，8组800米，慢慢加到2K，4K，8K；&lt;/li&gt;
+&lt;li&gt;周三：有氧慢跑8公里；&lt;/li&gt;
+&lt;li&gt;周四：节奏跑，10公里；&lt;/li&gt;
+&lt;li&gt;周五：跑休，单车骑行，核心力量训练；&lt;/li&gt;
+&lt;li&gt;周六：长距离，环西湖，西湖玫瑰，余杭塘河，西溪湿地大环线；&lt;/li&gt;
+&lt;li&gt;周日：有氧慢跑，10+公里；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;也从一年的训练中学到了不少东西：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;有了目标，就有了方向；目标就在那里，至于怎么达成目标，一百个人可能有一百种方式。有了目标，会想方设法的去达成目标。数学思维很重要，跑进130 = 配速412，配速 = 步频 * 步幅，要做的就是通过训练提高自己的能力，有氧下提高步频或者步幅，到现在为止我主要是靠步频来提高配速。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;控制自己，精简生活，放弃一些可有可无的事情。跑进130就要训练，训练就要投入时间，每个人一天都是24个小时，所以需要舍弃一些事情保证训练的时间。我晚上的时间不可控因素太多，于是我都是早点起床跑步，争取不仅跑步，还能不影响到工作，还有正常的生活。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;从训练有想法，到能完美的执行是一个过程。这个过程需要不断的摸索和调整，要跑间歇，什么时间跑，去哪个地方跑，怎么跑间歇，下雨天怎么办等等。我从想到到能够做到，差不多经过了半年的时间，暑假断了一个月，到了10月份才养成习惯，能够保证每周一次间歇。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;梦马之前曾经和西湖跑团 @随心 约过西溪湿地大环线，整个大环线马配跑下来，最后一公里配速已经顶不住了，说明训练中还是缺少马配的长距离跑。虽然间歇提高了速度和最大摄氧量，但同样的配速长距离不能坚持到完赛也不行。多和大神一起跑，能快速发现自己的不足和差距，也能更快的提高。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;从去年到现在，这一年是开始跑步以来自我感觉进步最大的一年，也是最快的一年。如果和神马营的跑友相比，那么完成的质量都不够好，进步也不够快。跑间歇都是一个人训练，在质量和完成度上相比他们有些差距，也是以后可以继续提高的地方。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;杭州梦马距离目标只差一点&#34;&gt;杭州梦马，距离目标只差一点&lt;/h3&gt;
+&lt;p&gt;从有半马挑战130的想法，到杭州梦马参加的半马赛事有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2023.03.26，杭州梦想小镇半程马拉松，净成绩 01:32:14；【有了挑战130想法】&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;2023.11.19，舟山群岛半程马拉松，净成绩 01:33:37&lt;/del&gt;；【顺利完赛为主，吃海鲜大餐】&lt;/li&gt;
+&lt;li&gt;2023.12.10，诸暨西施半程马拉松，净成绩 01:34:47；【挑战半马130，跑崩】&lt;/li&gt;
+&lt;li&gt;2024.03.17，临平半程马拉松，净成绩 01:32:07；【梦马前的训练和模拟，PB】&lt;/li&gt;
+&lt;li&gt;2024.03.31，杭州梦想小镇半程马拉松，净成绩 01:30:29；【有机会跑进130，战术失误】&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其中，西施半马和杭州梦马都是挑战130的目标赛事，临平半马属于临时加的模拟和训练赛。下图是这三场比赛的配速数据，诸暨西施半马前面几公里跑的太快，后面跑崩了，获得的教训就是前面一定要压住配速，心率直接拉满也很难再降下来；杭州临平半马完成了模拟和训练任务，相比去年梦马PB时间提高了7秒，收获了跑进130的自信。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/half-marathon-pace-records.png&#34; alt=&#34;half marathon running pace&#34;&gt;&lt;/p&gt;
+&lt;p&gt;临平半马前两天已经有点鼻塞，对跑步来说就是影响跑步呼吸，严重的时候还会有痰。为了降低对梦想小镇半马的影响，买了白加黑希望能早点好起来，没有去体育场跑间歇，也暂停了周末两天的跑步，实际并没有起到效果，还是直到一周后才完全好起来。进入梦马比赛周，周二和周三恢复慢跑，跑起来感觉并不轻松，腿像灌了铅一样。周末就要比赛了，想到状态不行就拿装备来凑，于是火速购入了特步160X3.0的碳板跑鞋，开跑前去体育场跑了一次马配10K。&lt;/p&gt;
+&lt;p&gt;梦马当天天气非常适合比赛，阴天，偶尔有零星小雨；相比前一天的艳阳高照，天气好了太多，非常适合PB。梦马130小火车赛前还敲定了配速策略，起跑前还说了要慢慢追上兔子，模糊而不够明确，计划和执行再一次有了差距。比赛过程我是盯着平均配速再跑，前面10公里发现平均配速还是419，心里是有一点急的，作为一个小团队配速也一直没有提起来。直到16公里，补水之后发现其他3个小伙伴没有跟上，于是才放开了速度开始跑，配速很快到了405，406，感觉到要掉速后就想办法跟上其他跑友，有力气就再超过去。冲过终点的时候，感觉在130附近，应该不会差太多，赛后拿到参赛包看到手机的完赛短信，才知道距离目标差了30秒。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/dream-marathon-pace-plan.png&#34; alt=&#34;dream marathon pace plan&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这一次杭州梦马，感觉上是有机会跑进130的，只是比赛策略上出了问题，4人小分队我是最接近130的那一个。在执行上，其实不允许模糊的正常，而是要确定的精确。模糊带来的偏差还会在实际执行中被放大，就像每周跑3-5次往往跑不到3次；慢慢追上130兔子，比赛冲过终点也没有追上兔子。如果能明确下来，比如在10公里追上兔子，那么跑进130的机会要大很多。&lt;/p&gt;
+&lt;p&gt;已经有了全马破三的想法，想要全马破三就要先半马跑进130；半马跑进130的前提是10K跑进40分，5K跑进20分。去年 HOKA MACH X 10K 测试赛跑了45分，一个都还没完成。我想这次梦马没有跑进130，或许是要提醒我，继续保持训练，直到有一天5K跑进20分，10K跑进40分，然后半马跑进130应该是水到渠成的事情吧。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>每个跑者的破三之路都不一样</title>
+      <link>https://hagerhu.com/post/2024w03-the-way-to-marathon-sub300/</link>
+      <pubDate>Sun, 21 Jan 2024 22:29:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/2024w03-the-way-to-marathon-sub300/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/marathon_sub-3.jpeg&#34; alt=&#34;Marathon Sub-3&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;于嘉在东京奥运会上主持男子马拉松比赛时的一句经典解说，被跑者奉为经典：42公里处，基普乔格回头望望，他看的不是对手，是自己跑过的路。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;回顾我的跑马路&#34;&gt;回顾我的跑马路&lt;/h3&gt;
+&lt;p&gt;曾经在最忙碌的初三开始踢球，到大学毕业之后每周依然会去大学校园踢上一次；曾经我是不太明白跑步的，觉得跑步无论跑圈还是路跑都太无聊了，以至于从没想过自己以后会开始跑步。&lt;/p&gt;
+&lt;p&gt;2018年看过耐克创始人菲儿·奈特的《鞋狗》开始跑步，从开始的断断续续，到现在的跑五休二;从开始的只是想到，到现在已经可以做到；从2021年又了每年多跑一公里的想法，到2023年第一次完成2023公里的跑量；就这样一直跑到了现在，而且还想继续跑下去，想着跑步看世界，想着跑世界马拉松大满贯。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2018.11.18，舟山群岛半程马拉松，号码：34592，成绩 01:58:31&lt;/li&gt;
+&lt;li&gt;2019.10.20，杭州梦想小镇半程马拉松，号码：A10419，成绩 01:43:39&lt;/li&gt;
+&lt;li&gt;2019.11.03，杭州半程马拉松，号码：30951，成绩：01:42:50&lt;/li&gt;
+&lt;li&gt;2019.11.17，舟山群岛半程马拉松，号码：33526，成绩：01:46:32&lt;/li&gt;
+&lt;li&gt;2020.11.29，杭州梦想小镇半程马拉松，号码：A10387，成绩：01:41:46&lt;/li&gt;
+&lt;li&gt;2022.10.30，桐庐半程马拉松，号码：B24294，成绩：01:36:32&lt;/li&gt;
+&lt;li&gt;2022.11.20，杭州半程马拉松，号码：E30728，成绩：01:37:03&lt;/li&gt;
+&lt;li&gt;2023.03.19，无锡半程马拉松，号码：C54747，成绩：01:36:40&lt;/li&gt;
+&lt;li&gt;2023.03.26，杭州梦想小镇半程马拉松，号码：A10123，成绩：01:32:14&lt;/li&gt;
+&lt;li&gt;2023.11.19，舟山群岛半程马拉松，号码：30959，成绩：01:33:37&lt;/li&gt;
+&lt;li&gt;2023.12.10，诸暨西施半程马拉松，号码：C4412，成绩：01:34:47&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2018年末的舟山半马，当跑过终点线在两小时以内时，实现了赛前给自己的完赛目标，从此开始了半马的PB之路。PB后虽然也有比赛会更慢，但没关系，拉长时间纬度来看，这正是《原则》中提到的反馈循环-螺旋上升之路，跑的更快，变的更强。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2021.04.17，徐州全程马拉松，号码：D0734，成绩：03:52:21&lt;/li&gt;
+&lt;li&gt;2024.01.07，厦马全程马拉松，号码：F11847，成绩：03:39:27&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2021年靠手速终于抢到了徐州全马的名额，第一次全马也实现了体验为主，4小时以内完赛的目标。2024年的第一场比赛，双白金厦马没有达成330的目标，主要还是赛前高估了自己的实力，长距离太少以至于后半程的惨不忍睹。&lt;/p&gt;
+&lt;p&gt;厦门跑马后在揽海听风青旅，和稳稳破三的深圳跑友前后脚住进了同一个房间，在对的时间遇到了对的人。我们聊了很多，我也学到了不堆跑量可以破三的经验，核心力量，法特莱克跑，能量胶补给策略等，碳板跑鞋的设计等。之前全马破三模糊但不够清晰，现在开始一点一点清晰起来。虽然才跑过两次全马，虽然最好成绩只有339，但依然不能阻挡破三的心。&lt;/p&gt;
+&lt;h3 id=&#34;破三跑者的分享&#34;&gt;破三跑者的分享&lt;/h3&gt;
+&lt;p&gt;今天重温了 &lt;a href=&#34;https://marasoon.com/posts/the-running-thoughts-of-an-experienced-runner/&#34;&gt;破三：老司机关于的跑步思考&lt;/a&gt;，又有了新的收获。每次读每次都不一样，一方面也是有了更多的跑步经历，或许这就是《小而美》中提到的「你不应先学习，再开始。而应先开始，再学习」。&lt;/p&gt;
+&lt;p&gt;更有效率的跑步：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;虽然垃圾跑也是跑量，但作为财富、时间不自由的我个人倾向于选择更有效率的跑步方式。我理解的跑步训练就像一个弹簧，刺激-&amp;gt;恢复-&amp;gt;刺激-&amp;gt;恢复，如此反复会非常有效。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;记住跑步的目的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每次跑步前想想今天跑步的目的（划重点，@海通 名言），保证每一次训练的质量，今天的目的是恢复，是速度，还是耐力？带着目标去跑，不要轻易改变初衷。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;关注训练周期，不要纠结于一次训练的状态：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;课表是死的，人是活的。一次训练达不成目标没有关系，着眼于一个训练周期，某一次训练是否达标就显得不是那么重要了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2023年已经可以很好的执行跑五休二的训练，但重温之后发现还是思维还是太局限，只是想着每周的训练安排。应该以更长的周期来训练，间歇跑不只有8组800，可以从8组800，到6组1000，随着赛事的临近，过渡到4组2000，2组5000，前期提高速度，后期训练耐力。&lt;/p&gt;
+&lt;p&gt;同样是间歇跑，每个人每个阶段的理解不同，正如读成功人物的传记可以学习他们的经验，那么和学习破三跑者的经验可能是很快破三的最快方法。于是，照着自己新的理解，又一次更新了2024年的跑步训练安排，就这样先开始。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/2024-running-with-core-training.png&#34; alt=&#34;Running With Core Training&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;找到它跑下去&#34;&gt;找到它，跑下去&lt;/h3&gt;
+&lt;p&gt;之前注册的域名 marasoon.com 在今天也上线了，原本只是 marathon 的谐音词，现在有了更好的解读：&lt;a href=&#34;https://marasoon.com&#34;&gt;很快破三&lt;/a&gt;。破三是跑圈跑友心中的梦想，虽然每个跑者的破三之路都不一样，但每个人的经验都可以拿来学习。marasoon 要做的收集和分享破三跑者的故事。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🏃每个跑者的破三之路都不一样，找到它，跑下去。🎉&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;以前想去不同的城市跑马，想跑的城市有但没仔细想，现在想法开始慢慢变的清晰，把世界田联的标牌国内赛事全马跑一遍，然后跑向世界，跑世界马拉松大满贯。&lt;/p&gt;
+&lt;p&gt;最近每周二体育场的间歇强度，都是一个人跑8组800米。知道了神马训练营是每周二、四5:40开始，每次去他们已经接近尾声，之前从没想过要周四过去。看过多个破三跑者的分享，突然也想周四去看他们的训练，当个免费陪练提高自己；看过更多破三跑者的分享，发现每个跑者的破三之路都不一样，但关键中的关键还是执行。&lt;/p&gt;
+&lt;p&gt;课表就是定下自己的训练安排，然后100%的执行！不要忽视执行的难度，75 Hard 挑战虽然要完成的4个任务都很简单，但要连续75天完成挑战其实非常困难，我至今还未完成过连续75天在 Apple Watch 上闭合运动圆环。全马破三是健康OKR中的长期目标，从徐马352到厦马339，破三之路也才刚刚开始，期待像半马一样一路PB，螺旋破三吧。&lt;/p&gt;
+&lt;p&gt;最后，用 &lt;a href=&#34;https://marasoon.com/posts/the-running-thoughts-of-an-experienced-runner/&#34;&gt;破三：老司机关于的跑步思考&lt;/a&gt; 推荐语做个结尾，持续自己的热爱，成为闪光的榜样。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对热爱持之以恒，就会在平凡生活里闪着光！如果你想去往的终点是无尽的光芒，就别让路程变得暗淡无光。尽量闪烁，哪怕微末，不得皓月，则为萤火。在对抗碎片化的时代的过程中，他们通过对自己所热爱的事情持之以恒，最终成为了平凡生活中闪光的榜样！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>遇见在这么大的世界</title>
+      <link>https://hagerhu.com/post/2024w02-meet-in-such-a-big-world/</link>
+      <pubDate>Sun, 14 Jan 2024 22:22:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/2024w02-meet-in-such-a-big-world/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/2024w2-not-easy-to-meet.png&#34; alt=&#34;Not Easy to Meet&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;世界很大遇见不易&#34;&gt;世界很大遇见不易&lt;/h3&gt;
+&lt;p&gt;跑完厦马回到民宿先睡了一觉，然后订了曾厝垵的揽海听风青旅，想着可以继续休息，还能认识喜欢旅行的朋友。办好入住看完晚霞回来刚躺到青旅的床上，另一个深圳的跑友，背着一个大大的登山包也住进了同一个房间。&lt;/p&gt;
+&lt;p&gt;他也是刚跑完厦马过来，在深圳工作和生活，这是第5次跑厦门马拉松，虽然没有PB，却是历届厦马的最好成绩；这次257，跑步很多年，跑过很多全马，而且是稳稳的破三选手。加了微信好友继续聊，才知道他平时的月跑量居然不到200，但平时会重点做力量训练，周末跑长距离甚至全马。想到自己的每年多跑一公里，又想到全马还想着要不要给自己加跑量，竟然在对的时间遇到对的人，原来200月跑量也可以破三，最重要的是核心力量要跟上。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/2024w2-running-friend.png&#34; alt=&#34;ShenZhen runner friend&#34;&gt;&lt;/p&gt;
+&lt;p&gt;跑步就是我们共同的爱好，我们聊跑步的一切，从成绩到训练，跑过的赛事，厦马300的女兔，还聊到几年前另一个跑友带他吃的素食自助，约好明天晚上一起。&lt;/p&gt;
+&lt;p&gt;第2天我们都在青旅大堂办公，出发前在美团提前下单买好自助餐券，原本不到20元的价格还优惠了2元，格外划算。傍晚坐公交去明发商业广场，在绿素林我吃了足足3大盘，已经不记得他吃了几盘，两个人都到了扶墙而出的最高境界。吃完自助还想着去沙坡尾买栗酥饼，只是我们到的时候已经关门，第3天再去才知道那时候他们刚刚打样。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/2024w2-zengcuoan.png&#34; alt=&#34;City Walk at Zengcuo&amp;amp;rsquo;an&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在青旅还遇到一位烟台过来的跑友，在做李锦记生意。我们3个人一起逛曾厝垵，深圳跑友带我们看特色建筑，在村上·春宿遇见美女老板，邀请我们喝茶聊天。民宿院子的一角就是文章开头的那副画：世界这么大，能遇见不容易。为了找吃饭的地方，误打误撞走到我一年前住过的地方，吃了一年前吃过的南里沙茶面。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/2024w2-meet-mountain-and-sea.png&#34; alt=&#34;Meet Mountain And Sea&#34;&gt;&lt;/p&gt;
+&lt;p&gt;深圳跑友提到带的无人机一直还没有用上，发现原来我们不止是跑友，还是飞友，无人机都是大疆的 Mini3 Pro。第三天，我们一起去了山海步道，只是这里已经属于禁飞区。我们从旋转楼梯上去，从狐尾山走到仙岳山，谈论这个步道跑步也很好，看过美丽的晚霞，走了8公里到了仙岳山南门。这时候天色已晚，发现明发商业广场就附近，我们又去绿素林吃了自助，最后在沙坡尾买到了澜金烘焙的栗酥饼。&lt;/p&gt;
+&lt;h3 id=&#34;如愿参观厦门大学&#34;&gt;如愿参观厦门大学&lt;/h3&gt;
+&lt;p&gt;已经很久没有进过大学校园，疫情也改变了大学校园的管理，都要预约入园。不像浙江大学提前一天预约就行，厦门大学要提前3天，周一早上去环岛路散步，约了周四厦门大学的访客。想到一年前没有去成，决定参观完厦门大学再回去，就这样返杭时间从周二改到了周四。&lt;/p&gt;
+&lt;p&gt;虽然身在厦门，还是保持了杭州的作息和跑步的安排。周四沿着环岛南路，从书法广场跑到白城沙滩，然后演武大桥，最后跑到了双子塔。海边的景色太美，再加上早晨的朝阳，以至于原本只想跑个七八公里，结果跑了十多公里，跑后还做了三组核心力量训练。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/2024w2-xiamen-university.png&#34; alt=&#34;Xiamen University&#34;&gt;&lt;/p&gt;
+&lt;p&gt;来到厦门大学，穿过两边满是商铺的通道来到入口，入口处已经排了不少等待入园的游客。刷过人脸，站上电梯，随着电梯徐徐上升，映入眼帘的就是厦门大学标志性的建筑：颂恩楼。&lt;/p&gt;
+&lt;p&gt;校园内绿树成荫，再加上合适的天气，格外舒服，就这样逛到了芙蓉湖；然后穿梭于每个教学楼之间，逛到了台湾研究院，化学化工学院，经济楼，图书馆。沿着楼梯拾级而上，看到红砖白框圆形的窗户，透过窗户是生机怏然的绿树，树下一个女生在看书，安静而又美好。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/2024w2-xiamen-library.png&#34; alt=&#34;Xiamen University Library&#34;&gt;&lt;/p&gt;
+&lt;p&gt;从图书管下来，时间已经过去了大半，接下来准备到纪念馆和校史馆看看，然后就可以出去了。纪念馆和校史馆也很有特色，一条很长的走廊，红色油漆的大门立在一旁，就像正在站岗的哨兵。&lt;/p&gt;
+&lt;p&gt;厦门大学出来，回到青旅带上行李，坐上 D3108，又开始了返杭的旅途。&lt;/p&gt;
+&lt;h3 id=&#34;独立创造者的五年&#34;&gt;独立创造者的五年&lt;/h3&gt;
+&lt;p&gt;回到杭州，周六早上边跑步边听图拉鼎在《捕蛇者说》的分享，分享了&lt;a href=&#34;https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q&#34;&gt;独立创造者的五年&lt;/a&gt;。之前在推特上也看到了作者的这篇分享，白天在浙江图书馆找来又看了一遍。&lt;/p&gt;
+&lt;p&gt;独立创造者的五年，分享了从离职做第一个产品 AlgoCasts，到美国银行帐户，再到注册美国公司，至今自己的 SaaS 产品已经做的很好。文章的最后，交个朋友提到了王小波，把王小波遇见有趣的事，改成遇见有趣的人，因为人比事有趣，而有趣的事大概率也是有趣之人所为。第一次知道王小波还是推特上看到 Running Page 作者 &lt;a href=&#34;https://twitter.com/yihong0618&#34;&gt;yihong&lt;/a&gt; 的资料：喜欢王小波，大概我们能成为朋友。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我活在世上，无非想要明白些道理，遇见些有趣的事。倘能如我所愿，我的一生就算成功。- 王小波&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;独立创造者的五年还提到了 Derek Sivers，提到了他的几本书，还有网站首页留下的一句话。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I love meeting new people, and I reply to every email, so say hello.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;周末也看完了 Derek Sivers 的一本书，&lt;a href=&#34;https://sive.rs/a&#34;&gt;Anything you want&lt;/a&gt;，了解到更多关于 Derek Sivers 的创业故事。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://circle-index.oss-cn-hangzhou.aliyuncs.com/2024w2-relationship-key-result.png&#34; alt=&#34;Relationship key result&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2023年年度规划中，也曾把连接有趣的人和灵魂作为关键结果。只是一年过去，从未主动联系想要认识的独立开发，只在推特有过关注和交流。看到图拉鼎分享的疯狂星期四活动，每一次都很有趣，今年一定要找个时间过去。&lt;/p&gt;
+&lt;p&gt;推友 Sofish 在 2023小结中提到《最优解人生》，我在厦门返回杭州的路上看完了。是的，每个人或早或晚都会死，所以我们每个人都必须回答一个问题：我们如何将自己有限的一生过到极致？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你的人生是你体验的总和。但是，为了拥有极致的人生，如何才能将你体验的价值最大化？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一直喜欢「人生就是一场旅行，不必在乎目的地，在乎的是沿途的风景，以及看风景的心情」，这大概也是最优解人生的另外一种解读。很多时候，我们总是想等到有了钱要怎么怎么样，不妨尝试一下巴菲特·芒格提的逆向思维，总是反过来想。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;相比于浪费人生，人们更加担心钱被花光；你的思维必须倒过来，你最大的恐惧应该是时间与人生被浪费，而不是“到了80岁我还能有多少多少钱”这个问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;从青旅遇见跑友到曾厝看特色的建筑，从独立创造者的五年从 Derek Sivers, 从 Sofish 的 2023 年度小结到最优解人生，都是在遇见，都是在体验，就想这么一直下去，永远在路上。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

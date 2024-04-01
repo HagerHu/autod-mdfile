@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>记录旅行 on 寒峰路</title>
+    <link>https://hagerhu.com/tags/%E8%AE%B0%E5%BD%95%E6%97%85%E8%A1%8C/</link>
+    <description>Recent content in 记录旅行 on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Jan 2024 20:47:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/tags/%E8%AE%B0%E5%BD%95%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>创建你的旅行页面</title>
+      <link>https://hagerhu.com/post/intro-ttw-travel-memoir-from-photos/</link>
+      <pubDate>Tue, 30 Jan 2024 20:47:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/intro-ttw-travel-memoir-from-photos/</guid>
+      <description>每个人都有一个环游世界的梦想，我也不例外。除了环游世界，我还想有一个记录自己旅行经历的页面，它应该有一个照片和城市组成的时间线，一个标注我去过地方的世界地图，最好再加上关于旅行的数据统计。找了很久没找到合适的方案，于是，我给自己做了一个，可以自动从照片图库中生成你的旅行页面。</description>
+    </item>
+    
+  </channel>
+</rss>

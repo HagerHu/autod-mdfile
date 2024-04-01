@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>增长黑客 on 寒峰路</title>
+    <link>https://hagerhu.com/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/</link>
+    <description>Recent content in 增长黑客 on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Jul 2023 17:10:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你的时间线、旅程和统计</title>
+      <link>https://hagerhu.com/post/welcome-to-use-circle-2.0/</link>
+      <pubDate>Sun, 09 Jul 2023 17:10:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/welcome-to-use-circle-2.0/</guid>
+      <description>欢迎来到集合！这是属于你的集合，你的时间线，旅程和统计。集合旨在养成好习惯：每天记录和量化，从而设计并优化你的做事方式，也在记录和量化的过程中不断了解自己。没有记录就没有发生，没有量化便无法优化。</description>
+    </item>
+    
+    <item>
+      <title>2023年的上半年</title>
+      <link>https://hagerhu.com/post/2023w27-first-half-year-of-2023/</link>
+      <pubDate>Tue, 04 Jul 2023 11:57:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/2023w27-first-half-year-of-2023/</guid>
+      <description>集合上线的记录模块，可以通过主题来生成不同的时间线，从《原则》建造并进化你的机器的角度介绍了一下集合。这一周2023也结束了上半年，本周总结从3件事介绍了我的上半年，分别是集合应用和湾区周报、开始写作和寒峰路博客以及跑步。</description>
+    </item>
+    
+    <item>
+      <title>集合2.0的语言市场匹配</title>
+      <link>https://hagerhu.com/post/2023w26-finding-language-market-fit-for-circle-2.0/</link>
+      <pubDate>Mon, 26 Jun 2023 09:17:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/2023w26-finding-language-market-fit-for-circle-2.0/</guid>
+      <description>集合发布了线上版本2.0，我找来了《增长黑客》继续阅读，希望能从获客的章节中有所启发。从语言-市场匹配传达产品的核心价值，到有感于中英文两种语言表现出来的差别，再到有类似功能的产品介绍，最终回归到最开始的《原则》，从建造并进化你的机器的角度介绍了集合2.0。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>跑步 on 寒峰路</title>
+    <link>https://hagerhu.com/tags/%E8%B7%91%E6%AD%A5/</link>
+    <description>Recent content in 跑步 on 寒峰路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Feb 2023 09:53:20 +0800</lastBuildDate><atom:link href="https://hagerhu.com/tags/%E8%B7%91%E6%AD%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的跑步三件套和量化实践</title>
+      <link>https://hagerhu.com/post/my-running-device-and-quantified-practice/</link>
+      <pubDate>Tue, 07 Feb 2023 09:53:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/my-running-device-and-quantified-practice/</guid>
+      <description>我是在2018年读过耐克创始人的自传《鞋狗》开始认真跑步的。开始跑步后慢慢养成了自己的跑步习惯，跑步时间久了也有了不少数据，通过数据来量化自己，也就有了提高的空间。跑步让我看到了自己的变化，通过时间看到了自己的成长，也成为我2022年最有成就的一件事情。</description>
+    </item>
+    
+    <item>
+      <title>我开始跑步的故事</title>
+      <link>https://hagerhu.com/post/my-story-with-hangzhou-marathon/</link>
+      <pubDate>Mon, 18 Oct 2021 20:14:20 +0800</pubDate>
+      
+      <guid>https://hagerhu.com/post/my-story-with-hangzhou-marathon/</guid>
+      <description>直通名额 2021年杭州马拉松将于11月7日开跑，不知道咱们阿里热爱跑步的小伙伴们有多少中签的呢？ 心塞没中也没关系！ 杭马官方独家线上赛平台“乐</description>
+    </item>
+    
+  </channel>
+</rss>

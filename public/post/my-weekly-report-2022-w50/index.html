@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>在阿里的最后一周 - 寒峰路</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="Hager Hu" /><meta name="description" content="要事回顾 监控系统 Grafana 本地版本不支持 mongodb，考虑通过集成方案同时存储到 PostgreSQL；通过 Go Client Libraray 可以实现； 使用 chatGPT 时候询问 &amp;ldquo;how to count distinct tag" /><meta name="keywords" content="寒峰路, 量化自我, 阿里十年, 集合量化" />
+
+
+<meta name="twitter:image:alt" content="article share image" />
+<meta name="twitter:image" content="" />
+<meta property="og:site_name" content="集合 - 构建你的个人系统" />
+<meta property="og:title" content="在阿里的最后一周 - 寒峰路" />
+<meta property="og:image" content="" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.107.0 with theme even" />
+
+
+<link rel="canonical" href="https://hagerhu.com" />
+  <link href="https://hagerhu.com/rss.xml" rel="alternate" type="application/rss+xml" title="寒峰路" />
+  <link href="https://hagerhu.com/index.xml" rel="feed" type="application/rss+xml" title="寒峰路" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<link href="/sass/main.min.315eee3f2f3631ef742c3d8725a2ea1c9289e60047770f6f467be7c5cbd8a965.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="在阿里的最后一周" />
+<meta property="og:description" content="要事回顾 监控系统 Grafana 本地版本不支持 mongodb，考虑通过集成方案同时存储到 PostgreSQL；通过 Go Client Libraray 可以实现； 使用 chatGPT 时候询问 &ldquo;how to count distinct tag" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hagerhu.com/post/my-weekly-report-2022-w50/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2022-12-11T21:50:20+08:00" />
+<meta property="article:modified_time" content="2022-12-11T21:50:20+08:00" />
+
+<meta itemprop="name" content="在阿里的最后一周">
+<meta itemprop="description" content="要事回顾 监控系统 Grafana 本地版本不支持 mongodb，考虑通过集成方案同时存储到 PostgreSQL；通过 Go Client Libraray 可以实现； 使用 chatGPT 时候询问 &ldquo;how to count distinct tag"><meta itemprop="datePublished" content="2022-12-11T21:50:20+08:00" />
+<meta itemprop="dateModified" content="2022-12-11T21:50:20+08:00" />
+<meta itemprop="wordCount" content="1068">
+<meta itemprop="keywords" content="反思总结,反馈循环," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="在阿里的最后一周"/>
+<meta name="twitter:description" content="要事回顾 监控系统 Grafana 本地版本不支持 mongodb，考虑通过集成方案同时存储到 PostgreSQL；通过 Go Client Libraray 可以实现； 使用 chatGPT 时候询问 &ldquo;how to count distinct tag"/>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5NJYSPFPQL"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-5NJYSPFPQL', { 'anonymize_ip': true });
+}
+</script>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">寒峰路</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">首页</li>
+      </a><a href="https://ttw.usistem.com/journey/a9603b5d43cb218d1999832e8bc7e361">
+        <li class="mobile-menu-item">旅行</li>
+      </a><a href="https://usistem.com/zh/the-bay-area/">
+        <li class="mobile-menu-item">湾区</li>
+      </a><a href="https://hagerhu.com/post/circle-build-your-own-system/">
+        <li class="mobile-menu-item">作品</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">归档</li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">分类</li>
+      </a><a href="/post/about-me/">
+        <li class="mobile-menu-item">关于</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">寒峰路</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://ttw.usistem.com/journey/a9603b5d43cb218d1999832e8bc7e361">旅行</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://usistem.com/zh/the-bay-area/">湾区</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="https://hagerhu.com/post/circle-build-your-own-system/">作品</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">归档</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">分类</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/about-me/">关于</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">在阿里的最后一周</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2022-12-11 </span>
+        <div class="post-category">
+            <a href="/categories/%E6%AF%8F%E5%91%A8%E6%80%BB%E7%BB%93/"> 每周总结 </a>
+            </div>
+          <span class="more-meta"> 约 1068 字 </span>
+          <span class="more-meta"> 预计阅读 3 分钟 </span>
+        <span id="busuanzi_container_page_pv" class="more-meta"> <span id="busuanzi_value_page_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次阅读 </span>
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#要事回顾">要事回顾</a>
+          <ul>
+            <li><a href="#监控系统">监控系统</a></li>
+            <li><a href="#运营推广">运营推广</a></li>
+          </ul>
+        </li>
+        <li><a href="#例行检查">例行检查</a>
+          <ul>
+            <li><a href="#睡眠跟踪">睡眠跟踪</a></li>
+            <li><a href="#时间管理">时间管理</a></li>
+            <li><a href="#健康运动">健康运动</a></li>
+            <li><a href="#人脉关系">人脉关系</a></li>
+            <li><a href="#习惯投资">习惯投资</a></li>
+          </ul>
+        </li>
+        <li><a href="#总结分享">总结分享</a>
+          <ul>
+            <li><a href="#疫情管理">疫情管理</a></li>
+            <li><a href="#openai-体验">OpenAI 体验</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</div>
+    <div class="post-content">
+      <h2 id="要事回顾">要事回顾</h2>
+<h3 id="监控系统">监控系统</h3>
+<p>Grafana 本地版本不支持 mongodb，考虑通过集成方案同时存储到 PostgreSQL；通过 Go Client Libraray 可以实现；</p>
+<p>使用 chatGPT 时候询问 &ldquo;how to count distinct tag values using influxdb flux daily&rdquo; 后稍作调整，在 Grafana 中完成了 DAU/MAU 的统计图表显示。</p>
+<h3 id="运营推广">运营推广</h3>
+<p>本周没有任何内容和产出。</p>
+<h2 id="例行检查">例行检查</h2>
+<h3 id="睡眠跟踪">睡眠跟踪</h3>
+<p>本周世界杯淘汰赛期间，基本看完了晚间第一场比赛，克罗地亚、摩洛哥均点球取胜；睡眠时长属于正常水平。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670805363630-4dda53ce-4ae6-470b-9a70-446e4b516a4c.png#averageHue=%23f0f1f1&amp;clientId=u9c2755f4-2b2c-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=238&amp;id=u88d37950&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-12%20at%2008.35.36%402x.png&amp;originHeight=476&amp;originWidth=790&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=236063&amp;status=done&amp;style=none&amp;taskId=ue1101fbf-1178-4589-a6f9-a39795e329c&amp;title=&amp;width=395" alt="CleanShot 2022-12-12 at 08.35.36@2x.png"></p>
+<h3 id="时间管理">时间管理</h3>
+<p>本周时间投入上还是家庭&amp;娱乐为主，特别是世界杯淘汰赛；教育&amp;系统方面进展缓慢；</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670805064196-38874415-48a4-40b3-8f20-cc78f6de1efb.png#averageHue=%23312e2d&amp;clientId=u9c2755f4-2b2c-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=646&amp;id=u7dc1afe8&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-12%20at%2008.30.41%402x.png&amp;originHeight=1292&amp;originWidth=1678&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=404553&amp;status=done&amp;style=none&amp;taskId=uf69b42ca-6c83-4d6d-8507-67bbc844abf&amp;title=&amp;width=839" alt="CleanShot 2022-12-12 at 08.30.41@2x.png"></p>
+<h3 id="健康运动">健康运动</h3>
+<p>本周跑步以有氧慢跑为主，跑步4次，共计46公里，周末环西溪湿地福堤半圈；
+单车上下班两天，共计48公里；</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670805602014-53900665-27ca-46b6-9ee0-fc90e9c1a331.png#averageHue=%23f0f2f2&amp;clientId=u9c2755f4-2b2c-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=252&amp;id=u7faea992&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-12%20at%2008.39.44%402x.png&amp;originHeight=504&amp;originWidth=1742&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=751059&amp;status=done&amp;style=none&amp;taskId=ub6fa8f5d-06d6-4a0a-9bb2-9f9ccfc613e&amp;title=&amp;width=871" alt="CleanShot 2022-12-12 at 08.39.44@2x.png"></p>
+<h3 id="人脉关系">人脉关系</h3>
+<p>周一，从朋友家接回两个孩子，顺带带了一块小蛋糕。小宝拿着下楼梯时滑了一脚，蛋糕掉了一点。我从小宝手上接过蛋糕，让小宝用纸巾擦一下楼梯，结果小宝嫌脏让我擦，我一手拿蛋糕一手擦楼梯，结果悲剧了，蛋糕整个翻下去了。之后小宝一路哭回家，回到家也哭了很久。</p>
+<p>家里哭泣快要结束的时候，转头看见我在偷拍视频，又对我一顿输出，又哭了很久。后来小宝终于恢复平静，晚点的时候吃了一口，说不好吃，就再也没有碰过了，第2天早上也没有吃。在大人看来这个哭泣并不值得；从小孩子来看，更多是一种伤心的表达；从教育来讲，也许是个很好的思考点，应该体谅孩子的难过，避免这种生硬的处理方式。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670809636819-f2b5afd4-fcc7-4bbb-8b69-a18078c612de.png#averageHue=%23958e7c&amp;clientId=u9c2755f4-2b2c-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=338&amp;id=ufd39cdf6&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-12%20at%2009.47.04%402x.png&amp;originHeight=676&amp;originWidth=1490&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=1771040&amp;status=done&amp;style=none&amp;taskId=u68f15981-cf9e-4b65-a02e-06112b50d61&amp;title=&amp;width=745" alt="CleanShot 2022-12-12 at 09.47.04@2x.png"></p>
+<p>周二，晚上先和小宝下了一盘国际跳棋，平局；后面和大宝也下了一盘，输了。</p>
+<p>周六，和大宝、小宝一起把家里的儿童图书放到小区的阅读室，大宝整理了图书，还在图书室看了一会；小宝也和另一个小朋友整理了图书，还和爸爸一起踢了会网球。</p>
+<p>周日，家庭一起去了爱文艺江和美海洋公园，看了人鱼传说表演；一开始俩宝对亲亲鱼并不感冒，后来则是有空就跑去让小鱼亲亲。晚上一起玩了抢凳子游戏，大宝小宝都挺开心。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670812830827-10f898ba-40cf-46a0-a970-4c88bbf8d8f2.png#averageHue=%23808874&amp;clientId=u9c2755f4-2b2c-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=429&amp;id=u2812537e&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-12%20at%2010.40.15%402x.png&amp;originHeight=858&amp;originWidth=1794&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=3002697&amp;status=done&amp;style=none&amp;taskId=uc8d93017-6924-4dd9-91af-3eca371ff17&amp;title=&amp;width=897" alt="CleanShot 2022-12-12 at 10.40.15@2x.png"></p>
+<p>本周在西溪园区健身房最后一次有氧慢跑，吃过2号楼的最后一餐米粉。</p>
+<p>一年香，三年醇，五年陈，不知不觉已经和阿里一起走过十年，正式成为阿里校友会中的一员。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670848501062-a3f12366-9d13-446b-b5ca-1aedb3890397.png#averageHue=%238e8f84&amp;clientId=u9c2755f4-2b2c-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=530&amp;id=u15501723&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-12%20at%2020.34.38%402x.png&amp;originHeight=1060&amp;originWidth=1682&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=3221349&amp;status=done&amp;style=none&amp;taskId=u785cdad5-b244-4d10-80de-7972fef8736&amp;title=&amp;width=841" alt="CleanShot 2022-12-12 at 20.34.38@2x.png"></p>
+<h3 id="习惯投资">习惯投资</h3>
+<p>本周持仓无变化；</p>
+<p>LP准备投资朋友的典当生意，发现没有多余的流动资金可用，理财没有到期无法取出；因此，投资除了收益率，还要关注流动性，保证生活的正常开支；</p>
+<p>目前支付宝的兴全趋势投资可用扮演此类定位，另外也可以考虑杭州银行理财的季添益，招商银行的朝朝盈，定位就是高流动性、低收益率。</p>
+<p>且慢和有知有行，人生四笔钱的投入还是挺好的，分别为 活钱管理、稳健理财、长期投资、保险保障；</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670848721993-890bbb3e-12ef-49fd-8a47-f4250bf9af73.png?x-oss-process=image%2Fresize%2Cw_1500%2Climit_0" alt="stock_image"></p>
+<h2 id="总结分享">总结分享</h2>
+<h3 id="疫情管理">疫情管理</h3>
+<p>本周杭州疫情管控放开，下周起不再查验核算；微信群中分享的药品使用。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670806757450-fe2616d0-453f-41e3-83f1-f53971e82f24.png#averageHue=%23dbd4c7&amp;clientId=u9c2755f4-2b2c-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=407&amp;id=u8462ef39&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-12%20at%2008.58.59%402x.png&amp;originHeight=814&amp;originWidth=1720&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=1384436&amp;status=done&amp;style=none&amp;taskId=u15d2a7c3-7822-4056-9da4-871ffb7485f&amp;title=&amp;width=860" alt="CleanShot 2022-12-12 at 08.58.59@2x.png"></p>
+<h3 id="openai-体验">OpenAI 体验</h3>
+<p>注册体验了 openAI 的 chatGPT 和 DALL.E2 能力，体验却是不错。</p>
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/177619/1670814144206-35e95a35-c062-452a-9e86-79eebdcc0f12.png#averageHue=%23aec1c9&amp;clientId=u9c2755f4-2b2c-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=298&amp;id=u77c3e3d1&amp;margin=%5Bobject%20Object%5D&amp;name=CleanShot%202022-12-12%20at%2011.02.07%402x.png&amp;originHeight=596&amp;originWidth=2010&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=689494&amp;status=done&amp;style=none&amp;taskId=ub40679e4-82b4-490d-9e74-ef51c9fee6a&amp;title=&amp;width=1005" alt="CleanShot 2022-12-12 at 11.02.07@2x.png"></p>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">Hager Hu</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2022-12-11
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/%E5%8F%8D%E6%80%9D%E6%80%BB%E7%BB%93/">反思总结</a>
+          <a href="/tags/%E5%8F%8D%E9%A6%88%E5%BE%AA%E7%8E%AF/">反馈循环</a>
+          </div><script
+        src="https://giscus.app/client.js"
+        data-repo="HagerHu/blog-comments"
+        data-repo-id="R_kgDOJk2MlA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJk2MlM4CWl0N"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+      </script>
+
+      
+      <nav class="post-nav">
+        <a class="prev" href="/post/my-weekly-report-2022-w51/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">时间自由第一周</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/post/about-me/">
+            <span class="next-text nav-default">关于我</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="https://twitter.com/hagerhu" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="https://github.com/hagerhu" class="iconfont icon-github" title="github"></a>
+  <a href="https://hagerhu.com/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  <div class="busuanzi-footer">
+    <span id="busuanzi_container_site_pv"> 本站总访问量 <span id="busuanzi_value_site_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次 </span>
+      <span class="division">|</span>
+    <span id="busuanzi_container_site_uv"> 本站总访客数 <span id="busuanzi_value_site_uv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 人 </span>
+  </div>
+
+  <span class="copyright-year">
+    &copy; 
+    2022 - 
+    2024<span class="heart"><i class="iconfont icon-heart"></i></span><span>Hager Hu</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.4ae89da218555efa0e7093a20b92017d2e1202b66fff9fc2edf4cb8d44b44c6e.js"></script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-5NJYSPFPQL', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+
+
+
+
+</body>
+</html>
