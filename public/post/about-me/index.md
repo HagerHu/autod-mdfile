@@ -1,11 +1,13 @@
 
 ## 名字由来
 
-我是 H，来自初中时好友间的称呼；英文名 Hager Hu，取自中文名谐音。
+H，寒峰，胡怀国，hagerhu;
+
+H，来自初中时好友间的称呼；英文名 Hager Hu，取自中文名谐音。
 
 和阿里一起走过12个春秋，阿里花名 寒峰，「独钓寒江雪，山高人为峰」。
 
-现在给自己一段时间，开始写作 [寒峰路](https://hagerhu.com)，做自己的项目 [集合量化](https://t.cmcn.me/app)，构建自己的 [个人系统](https://cmcn.me/link?target=https://usistem.com)。
+现在给自己一段时间，开始写作 [寒峰路](https://hagerhu.com)，做自己的项目 集合，构建自己的 [个人系统](https://cmcn.me/link?target=https://usistem.com)。
 
 ## 跑马之旅
 
