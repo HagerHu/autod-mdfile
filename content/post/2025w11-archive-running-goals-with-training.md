@@ -1,5 +1,5 @@
 ---
-title: "训练一年，半马130和全马310"
+title: "认真训练，达成半马130和全马310"
 date: 2025-03-07T17:14:20+08:00
 draft: false
 Summary: 锻炼和训练是不一样的！训练，就是要触及痛苦的边缘，突破自己，提高更快。2024年，就是我努力把锻炼变成训练的一年，也终于在这一年10K跑进40分，半马跑进130，全马跑进310，也是跑步7年提高和突破最快的一年。
@@ -15,15 +15,15 @@ image: "https://circle-index.oss-cn-hangzhou.aliyuncs.com/finish-line-at-xian-ma
 
 ---
 
-博哥在黑影儿TV的一期视频里，提到「锻炼和训练是不一样的！如果只是为了健康，那么每周锻炼个3次，每次跑个半小时就够了；训练，就是要触及痛苦的边缘，突破自己，提高更快。」
+![finish line photo at xian marathon](https://circle-index.oss-cn-hangzhou.aliyuncs.com/finish-line-at-xian-marathon.png)
+
+博哥在黑影儿TV的一期视频里，提到「锻炼和训练是不一样的！如果只是保持健康，那么每周锻炼个3次，每次跑个半小时就够了；训练，就是要触及痛苦的边缘，突破自己，提高更快。」
 
 [21公里，“训练”与“锻炼” - YouTube](https://www.youtube.com/watch?v=pKO2MeZCtoQ)
 
 [21公里，“训练”与“锻炼” - 哔哩哔哩](https://www.bilibili.com/video/BV1KY411p7iC)
 
 2024年，就是我努力把锻炼变成训练的一年，也终于在这一年10K跑进40分，半马跑进130，全马跑进310，也是跑步7年提高和突破最快的一年。
-
-![finish line photo at xian marathon](https://circle-index.oss-cn-hangzhou.aliyuncs.com/finish-line-at-xian-marathon.png)
 
 接下来我会从2024年参加和完成的比赛来回顾过去的这一年。
 
